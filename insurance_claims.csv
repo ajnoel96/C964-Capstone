@@ -1,0 +1,1001 @@
+months_as_customer,age,policy_state,policy_csl,policy_deductable,policy_annual_premium,umbrella_limit,incident_type,collision_type,incident_severity,incident_hour_of_the_day,number_of_vehicles_involved,property_damage,bodily_injuries,total_claim_amount,injury_claim,property_claim,vehicle_claim,auto_make,auto_model,auto_year
+328,48,OH,250/500,1000,1406.91,0,Single Vehicle Collision,Side Collision,Major Damage,5,1,YES,1,71610,6510,13020,52080,Saab,92x,2004
+228,42,IN,250/500,2000,1197.22,5000000,Vehicle Theft,?,Minor Damage,8,1,?,0,5070,780,780,3510,Mercedes,E400,2007
+134,29,OH,100/300,2000,1413.14,5000000,Multi-vehicle Collision,Rear Collision,Minor Damage,7,3,NO,2,34650,7700,3850,23100,Dodge,RAM,2007
+256,41,IL,250/500,2000,1415.74,6000000,Single Vehicle Collision,Front Collision,Major Damage,5,1,?,1,63400,6340,6340,50720,Chevrolet,Tahoe,2014
+228,44,IL,500/1000,1000,1583.91,6000000,Vehicle Theft,?,Minor Damage,20,1,NO,0,6500,1300,650,4550,Accura,RSX,2009
+256,39,OH,250/500,1000,1351.1,0,Multi-vehicle Collision,Rear Collision,Major Damage,19,3,NO,0,64100,6410,6410,51280,Saab,95,2003
+137,34,IN,250/500,1000,1333.35,0,Multi-vehicle Collision,Front Collision,Minor Damage,0,3,?,0,78650,21450,7150,50050,Nissan,Pathfinder,2012
+165,37,IL,100/300,1000,1137.03,0,Multi-vehicle Collision,Front Collision,Total Loss,23,3,?,2,51590,9380,9380,32830,Audi,A5,2015
+27,33,IL,100/300,500,1442.99,0,Single Vehicle Collision,Front Collision,Total Loss,21,1,NO,1,27700,2770,2770,22160,Toyota,Camry,2012
+212,42,IL,100/300,500,1315.68,0,Single Vehicle Collision,Rear Collision,Total Loss,14,1,NO,2,42300,4700,4700,32900,Saab,92x,1996
+235,42,OH,100/300,500,1253.12,4000000,Single Vehicle Collision,Front Collision,Total Loss,22,1,YES,2,87010,7910,15820,63280,Ford,F150,2002
+447,61,OH,100/300,2000,1137.16,0,Multi-vehicle Collision,Front Collision,Major Damage,21,3,YES,1,114920,17680,17680,79560,Audi,A3,2006
+60,23,OH,500/1000,500,1215.36,3000000,Single Vehicle Collision,Rear Collision,Total Loss,9,1,YES,1,56520,4710,9420,42390,Saab,95,2000
+121,34,OH,100/300,1000,936.61,0,Parked Car,?,Minor Damage,5,1,NO,1,7280,1120,1120,5040,Toyota,Highlander,2010
+180,38,OH,250/500,2000,1301.13,0,Single Vehicle Collision,Rear Collision,Total Loss,12,1,NO,0,46200,4200,8400,33600,Dodge,Neon,2003
+473,58,IN,100/300,2000,1131.4,0,Multi-vehicle Collision,Side Collision,Major Damage,12,4,YES,0,63120,10520,10520,42080,Accura,MDX,1999
+70,26,OH,500/1000,1000,1199.44,5000000,Multi-vehicle Collision,Rear Collision,Major Damage,0,3,?,1,52110,5790,5790,40530,Nissan,Maxima,2012
+140,31,IN,500/1000,500,708.64,6000000,Single Vehicle Collision,Side Collision,Total Loss,9,1,NO,0,77880,14160,7080,56640,Suburu,Legacy,2015
+160,37,OH,500/1000,500,1374.22,0,Single Vehicle Collision,Side Collision,Total Loss,19,1,YES,1,72930,6630,13260,53040,Accura,TL,2015
+196,39,IN,500/1000,2000,1475.73,0,Multi-vehicle Collision,Side Collision,Major Damage,8,3,?,2,60400,6040,6040,48320,Nissan,Pathfinder,2014
+460,62,IN,250/500,1000,1187.96,4000000,Multi-vehicle Collision,Rear Collision,Minor Damage,20,3,NO,1,47160,0,5240,41920,Suburu,Impreza,2011
+217,41,IL,500/1000,2000,875.15,0,Multi-vehicle Collision,Side Collision,Total Loss,15,3,?,1,37840,0,4730,33110,Accura,RSX,1996
+370,55,IL,100/300,2000,972.18,0,Multi-vehicle Collision,Rear Collision,Major Damage,20,3,NO,0,71520,17880,5960,47680,Suburu,Forrestor,2000
+413,55,IN,100/300,2000,1268.79,0,Single Vehicle Collision,Front Collision,Total Loss,15,1,?,2,98160,8180,16360,73620,Dodge,RAM,2011
+237,40,IN,100/300,1000,883.31,0,Single Vehicle Collision,Rear Collision,Minor Damage,6,1,NO,1,77880,7080,14160,56640,Ford,Escape,2005
+8,35,OH,100/300,2000,1266.92,0,Multi-vehicle Collision,Rear Collision,Major Damage,16,3,NO,1,71500,16500,11000,44000,Ford,Escape,2006
+257,43,IN,100/300,2000,1322.1,0,Parked Car,?,Minor Damage,4,1,YES,1,9020,1640,820,6560,Toyota,Camry,2005
+202,34,IN,100/300,500,848.07,3000000,Vehicle Theft,?,Minor Damage,5,1,YES,2,5720,1040,520,4160,Suburu,Forrestor,2003
+224,40,OH,100/300,2000,1291.7,0,Single Vehicle Collision,Side Collision,Minor Damage,21,1,NO,1,69840,7760,15520,46560,Dodge,Neon,2009
+241,45,IL,500/1000,2000,1104.5,0,Single Vehicle Collision,Rear Collision,Minor Damage,5,1,NO,2,91650,14100,14100,63450,Accura,TL,2011
+64,25,IL,250/500,1000,954.16,0,Multi-vehicle Collision,Side Collision,Major Damage,22,4,NO,0,75600,12600,12600,50400,Toyota,Corolla,2005
+166,37,IL,100/300,2000,1337.28,8000000,Multi-vehicle Collision,Side Collision,Major Damage,10,3,NO,2,67140,7460,7460,52220,Ford,F150,2006
+155,35,IL,500/1000,1000,1088.34,0,Multi-vehicle Collision,Front Collision,Total Loss,16,3,YES,2,29790,3310,3310,23170,BMW,3 Series,2008
+114,30,IL,100/300,1000,1558.29,0,Multi-vehicle Collision,Front Collision,Major Damage,1,3,NO,1,77110,14020,14020,49070,Suburu,Impreza,2015
+149,37,IL,500/1000,500,1415.68,0,Single Vehicle Collision,Side Collision,Total Loss,17,1,YES,0,64800,10800,5400,48600,Audi,A3,1999
+147,33,OH,100/300,1000,1334.15,6000000,Single Vehicle Collision,Front Collision,Major Damage,15,1,YES,2,53100,10620,5310,37170,Mercedes,C300,1995
+62,28,IL,100/300,1000,988.45,0,Single Vehicle Collision,Rear Collision,Total Loss,3,1,?,1,60200,6020,6020,48160,Suburu,Forrestor,2004
+289,49,IL,500/1000,2000,1222.48,0,Parked Car,?,Minor Damage,16,1,NO,1,5330,1230,820,3280,Suburu,Legacy,2001
+431,54,IN,500/1000,2000,1155.55,0,Multi-vehicle Collision,Rear Collision,Major Damage,4,3,?,2,62300,12460,6230,43610,Jeep,Wrangler,2007
+199,37,IN,250/500,500,1262.08,0,Single Vehicle Collision,Front Collision,Major Damage,4,1,?,0,60170,10940,10940,38290,Nissan,Pathfinder,2011
+79,26,IL,100/300,500,1451.62,0,Single Vehicle Collision,Rear Collision,Minor Damage,19,1,NO,2,40000,8000,4000,28000,BMW,M5,2010
+116,34,IN,250/500,500,1737.66,0,Single Vehicle Collision,Side Collision,Major Damage,1,1,?,1,97080,16180,16180,64720,BMW,X5,2001
+37,23,IL,500/1000,500,1475.93,0,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,YES,1,51660,5740,5740,40180,Dodge,RAM,2010
+106,30,OH,250/500,500,538.17,0,Single Vehicle Collision,Rear Collision,Total Loss,23,1,NO,2,51120,5680,5680,39760,Mercedes,E400,2005
+269,44,IL,100/300,2000,1081.08,0,Single Vehicle Collision,Front Collision,Minor Damage,14,1,YES,0,56400,11280,11280,33840,Toyota,Highlander,2014
+265,40,IL,250/500,1000,1454.43,0,Multi-vehicle Collision,Rear Collision,Total Loss,17,3,NO,2,55120,6890,0,48230,Accura,MDX,2002
+163,33,IN,100/300,500,1240.47,0,Multi-vehicle Collision,Rear Collision,Total Loss,11,3,YES,1,77110,0,14020,63090,Honda,Civic,2014
+355,47,OH,500/1000,2000,1273.7,4000000,Multi-vehicle Collision,Front Collision,Major Damage,19,3,NO,2,62800,6280,6280,50240,Audi,A3,2003
+175,34,IN,500/1000,1000,1123.87,8000000,Vehicle Theft,?,Trivial Damage,5,1,?,2,7290,810,810,5670,Volkswagen,Passat,1995
+192,35,IL,100/300,1000,1245.89,0,Single Vehicle Collision,Rear Collision,Total Loss,19,1,NO,0,76600,15320,7660,53620,Mercedes,C300,2000
+430,59,OH,250/500,2000,1326.62,7000000,Multi-vehicle Collision,Front Collision,Minor Damage,19,3,?,0,81800,16360,8180,57260,Nissan,Pathfinder,1998
+91,27,IL,100/300,2000,1073.83,0,Vehicle Theft,?,Trivial Damage,4,1,?,1,7260,1320,660,5280,BMW,M5,2008
+217,39,IN,100/300,1000,1530.52,0,Vehicle Theft,?,Minor Damage,8,1,?,2,4300,430,430,3440,Toyota,Corolla,2000
+223,40,IN,100/300,500,1201.41,0,Multi-vehicle Collision,Side Collision,Major Damage,7,3,YES,1,70510,12820,12820,44870,Suburu,Forrestor,1999
+195,39,OH,250/500,1000,1393.57,0,Parked Car,?,Minor Damage,5,1,NO,0,2640,480,480,1680,Ford,F150,2009
+22,26,OH,100/300,1000,1276.57,0,Single Vehicle Collision,Rear Collision,Minor Damage,3,1,YES,1,78900,15780,7890,55230,Chevrolet,Silverado,1995
+439,56,IN,250/500,500,1082.49,0,Multi-vehicle Collision,Front Collision,Major Damage,12,3,?,2,56430,0,6270,50160,Honda,CRV,2014
+94,32,IN,500/1000,1000,1414.74,0,Parked Car,?,Minor Damage,19,1,NO,1,2400,300,300,1800,Chevrolet,Silverado,2014
+11,39,IL,250/500,2000,1470.06,0,Single Vehicle Collision,Front Collision,Total Loss,22,1,YES,0,65790,7310,7310,51170,Saab,93,2007
+151,36,OH,250/500,2000,870.63,0,Multi-vehicle Collision,Side Collision,Minor Damage,12,3,NO,1,62920,11440,5720,45760,Ford,Escape,2000
+154,34,IN,100/300,500,795.23,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,YES,2,69480,15440,0,54040,Nissan,Maxima,2014
+245,44,IL,500/1000,1000,1168.2,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,NO,0,44280,7380,3690,33210,Honda,Accord,1997
+119,32,IL,500/1000,1000,993.51,0,Single Vehicle Collision,Side Collision,Minor Damage,12,1,NO,0,56300,5630,11260,39410,BMW,M5,2011
+215,42,OH,500/1000,500,1848.81,0,Multi-vehicle Collision,Front Collision,Major Damage,20,3,YES,2,68520,11420,5710,51390,Suburu,Legacy,2003
+295,42,OH,250/500,2000,1641.73,5000000,Multi-vehicle Collision,Rear Collision,Total Loss,16,3,NO,0,59130,6570,6570,45990,Ford,Escape,2006
+254,39,IN,100/300,500,1362.87,0,Multi-vehicle Collision,Front Collision,Minor Damage,6,3,YES,2,82320,13720,6860,61740,Dodge,Neon,1995
+107,31,IN,250/500,500,1239.22,7000000,Single Vehicle Collision,Side Collision,Minor Damage,12,1,YES,0,89700,13800,13800,62100,Audi,A5,2009
+478,64,OH,250/500,500,835.02,0,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,NO,1,33930,0,3770,30160,BMW,X6,1998
+128,30,OH,100/300,1000,1061.33,0,Single Vehicle Collision,Front Collision,Major Damage,8,1,NO,0,68530,12460,6230,49840,Audi,A5,1997
+338,49,IN,500/1000,1000,1279.08,0,Parked Car,?,Minor Damage,13,1,NO,0,4300,860,860,2580,Ford,F150,2004
+271,42,OH,100/300,500,1105.49,0,Multi-vehicle Collision,Side Collision,Major Damage,12,2,?,2,68310,12420,6210,49680,Audi,A3,2003
+222,41,OH,100/300,2000,1055.53,0,Single Vehicle Collision,Front Collision,Total Loss,7,1,NO,0,61290,6810,6810,47670,Honda,Civic,1995
+199,41,OH,250/500,1000,895.83,0,Single Vehicle Collision,Rear Collision,Minor Damage,10,1,NO,1,30100,3010,0,27090,Chevrolet,Malibu,1999
+215,37,IN,100/300,500,1632.93,0,Multi-vehicle Collision,Rear Collision,Minor Damage,7,3,NO,2,57120,9520,4760,42840,Mercedes,C300,2002
+192,40,IL,100/300,1000,1405.99,0,Multi-vehicle Collision,Side Collision,Minor Damage,18,3,YES,1,42930,9540,4770,28620,BMW,X6,2005
+120,35,OH,100/300,1000,1425.54,0,Multi-vehicle Collision,Front Collision,Total Loss,22,3,NO,2,51210,11380,5690,34140,Ford,Fusion,2010
+270,45,OH,500/1000,1000,1038.09,0,Multi-vehicle Collision,Front Collision,Minor Damage,18,3,NO,1,89400,14900,7450,67050,Suburu,Legacy,1998
+319,47,IN,250/500,500,1307.11,0,Multi-vehicle Collision,Front Collision,Total Loss,22,3,NO,0,59730,10860,10860,38010,Audi,A3,2005
+194,39,OH,500/1000,1000,1489.24,6000000,Vehicle Theft,?,Minor Damage,15,1,YES,2,8060,1240,1240,5580,Saab,95,2004
+227,38,OH,500/1000,500,976.67,0,Single Vehicle Collision,Rear Collision,Major Damage,16,1,?,1,72200,14440,7220,50540,BMW,M5,2013
+137,31,OH,250/500,2000,1340.43,0,Multi-vehicle Collision,Side Collision,Minor Damage,6,3,NO,1,50800,10160,10160,30480,Accura,MDX,2005
+244,40,OH,500/1000,2000,1267.81,5000000,Vehicle Theft,?,Trivial Damage,10,1,?,2,6600,660,1320,4620,Accura,TL,2005
+78,29,IL,250/500,1000,1234.2,6000000,Vehicle Theft,?,Minor Damage,3,1,YES,2,7500,750,1500,5250,Nissan,Maxima,2002
+200,35,IN,250/500,2000,1318.06,0,Vehicle Theft,?,Trivial Damage,13,1,NO,0,6490,1180,1180,4130,Volkswagen,Jetta,2002
+284,48,IN,500/1000,2000,769.95,0,Multi-vehicle Collision,Side Collision,Major Damage,16,2,?,2,60940,5540,11080,44320,Audi,A3,2013
+275,41,OH,100/300,2000,1514.72,0,Multi-vehicle Collision,Front Collision,Major Damage,13,3,YES,0,58300,5830,11660,40810,Suburu,Legacy,2007
+153,34,IL,500/1000,1000,873.64,4000000,Multi-vehicle Collision,Front Collision,Minor Damage,9,3,NO,2,68400,11400,11400,45600,Ford,F150,2007
+134,32,IL,500/1000,500,1612.43,0,Single Vehicle Collision,Side Collision,Total Loss,2,1,?,2,64240,11680,11680,40880,BMW,3 Series,2015
+31,36,IL,500/1000,2000,1318.24,9000000,Parked Car,?,Trivial Damage,9,1,NO,0,4700,940,470,3290,Dodge,Neon,2002
+41,25,IN,100/300,1000,1226.83,0,Multi-vehicle Collision,Side Collision,Major Damage,12,3,YES,2,45120,0,5640,39480,Accura,MDX,2011
+127,29,OH,250/500,2000,1326.44,5000000,Multi-vehicle Collision,Front Collision,Total Loss,12,2,YES,1,66950,10300,10300,46350,Saab,93,1995
+61,23,IL,250/500,2000,1136.83,4000000,Single Vehicle Collision,Side Collision,Major Damage,14,1,NO,0,98340,8940,17880,71520,Honda,Accord,2004
+207,42,IL,250/500,2000,1322.78,0,Parked Car,?,Trivial Damage,9,1,NO,0,5900,590,590,4720,BMW,X5,2007
+219,43,IN,100/300,1000,1483.25,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,NO,1,70680,5890,11780,53010,Ford,Fusion,2009
+271,42,IL,100/300,500,1515.3,0,Multi-vehicle Collision,Rear Collision,Total Loss,21,3,NO,1,93720,17040,8520,68160,Mercedes,ML350,2005
+80,25,IL,100/300,2000,1075.18,5000000,Vehicle Theft,?,Minor Damage,5,1,NO,2,6930,1260,630,5040,Toyota,Highlander,2001
+325,47,IN,500/1000,1000,1690.27,0,Single Vehicle Collision,Side Collision,Major Damage,11,1,YES,0,72930,6630,6630,59670,Dodge,RAM,2006
+29,25,IL,250/500,2000,1352.83,0,Multi-vehicle Collision,Rear Collision,Minor Damage,4,4,YES,1,64890,7210,7210,50470,Nissan,Pathfinder,2013
+295,48,OH,250/500,1000,1148.73,0,Parked Car,?,Trivial Damage,6,1,?,1,5400,900,900,3600,Saab,95,1999
+239,42,IL,100/300,1000,969.5,0,Vehicle Theft,?,Trivial Damage,10,1,NO,0,5600,700,700,4200,Audi,A3,2007
+269,41,IN,100/300,500,1463.82,0,Single Vehicle Collision,Rear Collision,Minor Damage,23,1,YES,0,79300,15860,15860,47580,Saab,92x,2007
+80,27,IL,100/300,1000,1474.17,0,Single Vehicle Collision,Side Collision,Major Damage,13,1,YES,1,52800,10560,5280,36960,Saab,95,2004
+279,41,IL,250/500,500,1497.35,0,Multi-vehicle Collision,Front Collision,Minor Damage,16,3,?,2,28800,0,3600,25200,Ford,Fusion,2013
+165,33,OH,100/300,1000,1427.14,0,Parked Car,?,Minor Damage,3,1,NO,1,2970,330,330,2310,Toyota,Highlander,2008
+350,54,OH,500/1000,500,1495.1,0,Multi-vehicle Collision,Side Collision,Total Loss,15,3,NO,0,93480,15580,7790,70110,Chevrolet,Malibu,2014
+295,49,IL,100/300,500,1141.62,0,Vehicle Theft,?,Minor Damage,4,1,YES,1,4320,480,480,3360,Mercedes,E400,2002
+464,61,OH,500/1000,1000,1125.37,0,Multi-vehicle Collision,Rear Collision,Major Damage,6,3,?,0,79800,6650,19950,53200,Saab,95,2000
+118,28,IN,500/1000,2000,1207.36,0,Multi-vehicle Collision,Front Collision,Major Damage,22,2,NO,1,74200,7420,14840,51940,Volkswagen,Passat,1997
+298,47,IL,500/1000,2000,1338.5,0,Single Vehicle Collision,Front Collision,Major Damage,1,1,?,0,70590,10860,10860,48870,Saab,93,2000
+87,31,IN,500/1000,1000,1074.07,0,Multi-vehicle Collision,Rear Collision,Major Damage,16,3,NO,0,60940,5540,11080,44320,Nissan,Ultima,2006
+261,42,OH,250/500,500,1337.56,0,Single Vehicle Collision,Rear Collision,Minor Damage,18,1,?,1,74700,7470,14940,52290,Dodge,RAM,2010
+453,60,IN,100/300,500,1298.91,6000000,Single Vehicle Collision,Front Collision,Major Damage,0,1,YES,0,70000,14000,7000,49000,Ford,F150,2015
+210,41,IL,500/1000,500,1222.75,0,Multi-vehicle Collision,Rear Collision,Total Loss,12,3,?,2,81070,14740,14740,51590,BMW,X5,2001
+168,32,IN,100/300,1000,1059.52,0,Multi-vehicle Collision,Side Collision,Major Damage,13,2,?,1,57720,14430,9620,33670,Saab,93,2007
+390,51,OH,250/500,2000,1124.38,0,Vehicle Theft,?,Minor Damage,9,1,YES,1,7080,1180,1180,4720,Ford,F150,2001
+258,46,IN,100/300,1000,1110.37,10000000,Multi-vehicle Collision,Side Collision,Total Loss,14,3,NO,0,47700,4770,9540,33390,Accura,MDX,1997
+107,31,IL,500/1000,2000,1374.22,0,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,NO,0,51260,9320,9320,32620,Suburu,Legacy,2002
+225,41,OH,500/1000,2000,1103.58,0,Multi-vehicle Collision,Side Collision,Major Damage,20,3,?,2,70400,6400,12800,51200,Toyota,Highlander,2011
+164,38,IL,250/500,2000,1269.76,0,Single Vehicle Collision,Rear Collision,Minor Damage,4,1,NO,1,90000,18000,9000,63000,Ford,Fusion,2015
+245,39,OH,250/500,500,964.79,8000000,Multi-vehicle Collision,Rear Collision,Minor Damage,7,3,?,0,72820,13240,6620,52960,BMW,3 Series,2010
+255,41,IL,500/1000,2000,1167.3,4000000,Single Vehicle Collision,Side Collision,Minor Damage,22,1,NO,2,69300,13860,13860,41580,Volkswagen,Passat,2000
+206,36,IL,500/1000,500,1625.45,4000000,Single Vehicle Collision,Front Collision,Major Damage,11,1,NO,2,76560,12760,12760,51040,Ford,Fusion,2008
+203,38,IL,250/500,500,1394.43,0,Single Vehicle Collision,Front Collision,Major Damage,7,1,?,0,55440,0,6160,49280,Nissan,Maxima,1999
+22,25,OH,250/500,2000,1053.24,0,Multi-vehicle Collision,Front Collision,Total Loss,0,4,YES,1,77130,8570,17140,51420,Accura,MDX,1995
+211,35,IL,100/300,500,1040.75,0,Single Vehicle Collision,Rear Collision,Total Loss,1,1,YES,1,42000,7000,7000,28000,BMW,X5,2011
+206,39,IN,250/500,1000,1302.4,6000000,Multi-vehicle Collision,Rear Collision,Total Loss,12,3,NO,2,36300,3300,9900,23100,Ford,Escape,2013
+166,38,IL,100/300,2000,1588.55,0,Single Vehicle Collision,Side Collision,Total Loss,8,1,NO,0,40320,5760,5760,28800,Suburu,Impreza,2001
+165,32,IN,500/1000,500,1399.26,0,Parked Car,?,Minor Damage,9,1,?,2,3960,330,660,2970,BMW,M5,1998
+274,43,OH,100/300,2000,1352.31,0,Single Vehicle Collision,Front Collision,Major Damage,22,1,YES,0,63840,10640,10640,42560,BMW,X5,2006
+81,28,IL,250/500,1000,1139,6000000,Multi-vehicle Collision,Front Collision,Major Damage,0,3,?,1,44730,4970,4970,34790,Saab,92x,2000
+280,45,IN,250/500,1000,1397.67,0,Multi-vehicle Collision,Front Collision,Minor Damage,0,3,YES,1,84720,14120,14120,56480,Ford,Escape,1999
+194,39,IN,250/500,500,823.17,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,?,2,61500,6150,12300,43050,Dodge,RAM,2012
+112,27,OH,100/300,500,965.13,0,Multi-vehicle Collision,Front Collision,Major Damage,21,3,?,0,51000,8500,8500,34000,Nissan,Pathfinder,2013
+24,33,IL,500/1000,1000,1922.84,0,Single Vehicle Collision,Side Collision,Total Loss,0,1,?,2,46800,4680,9360,32760,Jeep,Wrangler,2002
+93,32,OH,250/500,2000,1624.82,0,Single Vehicle Collision,Side Collision,Minor Damage,16,1,?,1,78120,17360,8680,52080,BMW,3 Series,2006
+171,34,IN,250/500,2000,1277.25,0,Single Vehicle Collision,Rear Collision,Major Damage,14,1,NO,1,69200,13840,6920,48440,Volkswagen,Passat,1996
+200,40,IL,100/300,1000,1439.34,0,Vehicle Theft,?,Minor Damage,9,1,?,0,3690,410,410,2870,Ford,Escape,2015
+120,28,IL,250/500,1000,1281.27,0,Multi-vehicle Collision,Rear Collision,Minor Damage,9,3,NO,0,65500,6550,6550,52400,BMW,X5,2010
+325,46,IL,500/1000,500,1348.83,0,Multi-vehicle Collision,Rear Collision,Minor Damage,21,3,?,1,76120,13840,6920,55360,Toyota,Camry,1999
+124,32,IL,250/500,1000,1198.15,0,Multi-vehicle Collision,Front Collision,Total Loss,19,3,NO,0,73560,12260,12260,49040,BMW,X5,1995
+211,35,OH,100/300,2000,1221.22,0,Single Vehicle Collision,Rear Collision,Total Loss,2,1,YES,0,52030,9460,4730,37840,Mercedes,E400,2008
+287,41,IL,500/1000,2000,968.74,0,Vehicle Theft,?,Trivial Damage,9,1,?,2,5170,470,940,3760,Suburu,Forrestor,2001
+122,34,IN,250/500,1000,1220.71,0,Parked Car,?,Minor Damage,5,1,?,2,8190,1890,1260,5040,Chevrolet,Silverado,2013
+22,29,IN,250/500,2000,1238.62,6000000,Single Vehicle Collision,Rear Collision,Major Damage,14,1,?,2,70800,7080,14160,49560,Accura,MDX,2012
+106,31,IL,500/1000,2000,1320.75,0,Multi-vehicle Collision,Rear Collision,Total Loss,20,3,?,0,45630,5070,5070,35490,Accura,MDX,2011
+398,58,OH,100/300,500,990.98,0,Single Vehicle Collision,Front Collision,Major Damage,18,1,YES,2,99320,7640,15280,76400,Accura,TL,2002
+214,41,IL,500/1000,500,1398.51,4000000,Multi-vehicle Collision,Side Collision,Major Damage,13,3,?,2,64000,12800,6400,44800,BMW,X6,1996
+209,38,OH,100/300,500,1355.08,0,Single Vehicle Collision,Front Collision,Minor Damage,21,1,?,1,47300,4730,4730,37840,Nissan,Pathfinder,2014
+82,27,IL,100/300,1000,1384.51,0,Single Vehicle Collision,Rear Collision,Major Damage,14,1,NO,2,71680,8960,8960,53760,Volkswagen,Jetta,2007
+193,41,OH,250/500,500,847.03,0,Single Vehicle Collision,Side Collision,Major Damage,1,1,?,1,112320,17280,17280,77760,Suburu,Impreza,2011
+134,32,OH,100/300,1000,1000.06,0,Single Vehicle Collision,Side Collision,Total Loss,17,1,?,1,82720,7520,15040,60160,Audi,A3,2014
+288,45,IL,100/300,1000,1046.71,0,Multi-vehicle Collision,Rear Collision,Major Damage,4,3,?,2,48060,10680,5340,32040,Mercedes,C300,2009
+104,32,IN,250/500,500,1158.03,0,Multi-vehicle Collision,Rear Collision,Total Loss,23,3,YES,1,63570,9780,9780,44010,Volkswagen,Jetta,2006
+431,54,OH,100/300,1000,1372.27,0,Multi-vehicle Collision,Rear Collision,Total Loss,13,3,NO,2,63240,10540,10540,42160,Suburu,Forrestor,1997
+101,33,OH,100/300,1000,1053.04,7000000,Multi-vehicle Collision,Rear Collision,Minor Damage,20,3,NO,1,54240,9040,9040,36160,Saab,93,2013
+375,50,OH,100/300,1000,1275.39,0,Single Vehicle Collision,Front Collision,Major Damage,16,1,YES,2,37280,0,0,37280,Audi,A5,1996
+461,61,OH,100/300,2000,1402.75,0,Multi-vehicle Collision,Rear Collision,Minor Damage,10,3,?,2,72100,7210,14420,50470,Jeep,Wrangler,2006
+428,59,IN,250/500,500,1344.36,7000000,Parked Car,?,Minor Damage,8,1,?,2,6500,1300,650,4550,Saab,92x,2013
+45,38,IN,100/300,1000,1197.71,0,Multi-vehicle Collision,Front Collision,Total Loss,17,3,?,2,78240,13040,13040,52160,Suburu,Legacy,2013
+136,29,OH,100/300,500,1203.24,0,Vehicle Theft,?,Minor Damage,9,1,?,2,6200,1240,620,4340,Honda,Accord,1999
+216,36,IN,500/1000,1000,1152.4,0,Parked Car,?,Minor Damage,0,1,YES,2,6160,560,1680,3920,Mercedes,E400,2014
+278,48,IN,500/1000,2000,1142.62,7000000,Single Vehicle Collision,Front Collision,Total Loss,12,1,?,2,76050,11700,11700,52650,Chevrolet,Silverado,1997
+295,48,OH,500/1000,1000,1332.07,0,Multi-vehicle Collision,Side Collision,Total Loss,20,2,NO,2,86060,13240,13240,59580,Volkswagen,Passat,2002
+112,30,OH,500/1000,1000,1166.54,0,Single Vehicle Collision,Front Collision,Major Damage,3,1,YES,2,107900,10790,21580,75530,Dodge,Neon,1997
+122,34,IL,250/500,500,1495.06,0,Multi-vehicle Collision,Rear Collision,Total Loss,18,3,NO,2,99990,18180,18180,63630,Mercedes,E400,2011
+108,29,IN,500/1000,1000,1337.92,0,Multi-vehicle Collision,Side Collision,Minor Damage,4,3,NO,2,61380,11160,5580,44640,Suburu,Legacy,2012
+14,28,OH,250/500,2000,1587.96,0,Single Vehicle Collision,Rear Collision,Major Damage,18,1,?,2,71280,12960,12960,45360,Audi,A5,2012
+298,45,IL,500/1000,1000,1362.29,0,Multi-vehicle Collision,Front Collision,Minor Damage,18,3,NO,0,64000,12800,6400,44800,Saab,95,1999
+276,46,IL,250/500,500,1448.84,0,Parked Car,?,Trivial Damage,7,1,?,0,5940,660,660,4620,Toyota,Highlander,2015
+47,37,IN,250/500,2000,1241.97,0,Parked Car,?,Minor Damage,18,1,NO,1,6700,670,670,5360,Jeep,Wrangler,2011
+222,42,IL,250/500,500,1124.6,0,Multi-vehicle Collision,Rear Collision,Minor Damage,23,3,YES,0,51740,11940,7960,31840,Jeep,Wrangler,2006
+119,28,OH,250/500,2000,1079.92,0,Single Vehicle Collision,Rear Collision,Total Loss,1,1,?,0,53600,6700,6700,40200,Volkswagen,Jetta,2007
+73,29,IL,250/500,1000,1447.78,0,Multi-vehicle Collision,Rear Collision,Total Loss,15,3,YES,1,44910,4990,4990,34930,Dodge,Neon,2001
+8,31,IN,250/500,500,1229.16,4000000,Multi-vehicle Collision,Front Collision,Major Damage,2,3,?,0,48100,11100,7400,29600,Volkswagen,Jetta,2014
+294,44,IL,100/300,1000,1226.49,0,Vehicle Theft,?,Trivial Damage,3,1,NO,0,6100,610,1220,4270,Ford,Fusion,2002
+324,46,IN,100/300,2000,897.89,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,13,1,?,1,79600,15920,15920,47760,Jeep,Wrangler,2011
+155,34,IN,100/300,500,1706.79,0,Single Vehicle Collision,Front Collision,Minor Damage,1,1,NO,1,77040,8560,8560,59920,Honda,Civic,1998
+261,45,IL,250/500,1000,1254.18,0,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,YES,0,62590,11380,11380,39830,Volkswagen,Jetta,2003
+245,40,IN,500/1000,500,885.08,0,Single Vehicle Collision,Front Collision,Total Loss,0,1,YES,0,85150,13100,13100,58950,Chevrolet,Malibu,1998
+235,39,IL,100/300,500,1046.58,4000000,Vehicle Theft,?,Trivial Damage,1,1,?,2,4950,450,900,3600,Chevrolet,Silverado,2010
+53,36,OH,500/1000,2000,1712.68,0,Multi-vehicle Collision,Side Collision,Major Damage,17,3,?,2,51100,10220,5110,35770,Audi,A3,2006
+426,54,IL,500/1000,2000,1097.71,0,Single Vehicle Collision,Side Collision,Minor Damage,13,1,YES,2,100800,16800,16800,67200,Dodge,Neon,1997
+111,27,IN,250/500,500,1363.77,4000000,Single Vehicle Collision,Side Collision,Total Loss,12,1,YES,2,90970,16540,16540,57890,Accura,RSX,2009
+86,26,OH,100/300,500,1382.88,7000000,Single Vehicle Collision,Rear Collision,Minor Damage,11,1,?,1,81840,14880,7440,59520,Chevrolet,Malibu,2011
+296,46,OH,100/300,1000,1141.35,7000000,Single Vehicle Collision,Front Collision,Major Damage,18,1,?,0,54900,5490,5490,43920,Mercedes,C300,2013
+125,35,OH,500/1000,500,1054.83,7000000,Single Vehicle Collision,Front Collision,Total Loss,17,1,YES,2,88660,8060,16120,64480,Mercedes,C300,2007
+177,34,IL,100/300,2000,1057.77,0,Multi-vehicle Collision,Front Collision,Total Loss,22,3,?,1,18000,2250,2250,13500,Audi,A3,2009
+238,39,IN,250/500,2000,1488.02,0,Vehicle Theft,?,Minor Damage,9,1,YES,1,5500,1100,550,3850,Chevrolet,Tahoe,2010
+81,25,IN,100/300,500,920.3,5000000,Multi-vehicle Collision,Rear Collision,Major Damage,11,3,?,1,73920,13440,6720,53760,Honda,Civic,2003
+128,28,OH,500/1000,1000,986.53,0,Single Vehicle Collision,Rear Collision,Total Loss,11,1,NO,0,101860,18520,18520,64820,Honda,CRV,2007
+449,57,OH,250/500,2000,1440.68,0,Parked Car,?,Minor Damage,8,1,YES,0,5390,980,980,3430,Volkswagen,Passat,2008
+252,39,IN,250/500,1000,1086.21,0,Single Vehicle Collision,Side Collision,Minor Damage,18,1,?,1,50490,5610,5610,39270,Nissan,Maxima,2001
+359,47,OH,100/300,2000,1367.68,0,Single Vehicle Collision,Front Collision,Total Loss,13,1,NO,0,55500,5550,11100,38850,Mercedes,C300,2012
+19,32,OH,500/1000,1000,1215.85,0,Vehicle Theft,?,Minor Damage,8,1,YES,1,7040,1280,640,5120,Nissan,Maxima,2015
+73,26,IL,250/500,2000,1191.19,4000000,Multi-vehicle Collision,Rear Collision,Total Loss,9,3,?,0,40160,5020,0,35140,Chevrolet,Tahoe,2003
+285,44,IL,500/1000,1000,1594.45,0,Multi-vehicle Collision,Side Collision,Total Loss,17,2,YES,2,55680,6960,6960,41760,Saab,95,2006
+196,36,IN,250/500,2000,1463.07,0,Vehicle Theft,?,Trivial Damage,3,1,?,1,5300,530,530,4240,Jeep,Grand Cherokee,2001
+223,43,OH,250/500,500,1734.09,0,Parked Car,?,Trivial Damage,6,1,YES,0,5200,650,650,3900,Accura,MDX,2006
+328,48,IL,250/500,500,1411.43,0,Single Vehicle Collision,Front Collision,Major Damage,17,1,YES,2,59400,5940,11880,41580,Honda,Civic,2014
+285,43,OH,100/300,2000,1512.58,0,Vehicle Theft,?,Minor Damage,7,1,?,1,2520,280,280,1960,BMW,3 Series,1997
+30,31,IL,250/500,2000,1153.35,0,Vehicle Theft,?,Trivial Damage,9,1,NO,2,5760,960,960,3840,Suburu,Impreza,2011
+342,49,OH,250/500,500,1722.95,0,Single Vehicle Collision,Rear Collision,Minor Damage,3,1,?,2,76700,7670,7670,61360,Suburu,Legacy,2006
+219,39,IN,250/500,2000,1281.07,7000000,Parked Car,?,Trivial Damage,6,1,NO,0,5920,740,740,4440,Chevrolet,Malibu,2015
+468,62,IL,100/300,500,1011.92,0,Multi-vehicle Collision,Rear Collision,Major Damage,7,3,YES,0,64350,7150,7150,50050,Chevrolet,Tahoe,2009
+241,39,IL,250/500,2000,1042.26,0,Multi-vehicle Collision,Rear Collision,Total Loss,21,3,NO,1,19080,4240,2120,12720,Saab,93,1995
+223,43,OH,500/1000,500,1235.1,0,Single Vehicle Collision,Rear Collision,Minor Damage,14,1,NO,2,54400,5440,5440,43520,BMW,M5,2011
+128,32,OH,100/300,2000,768.91,0,Single Vehicle Collision,Rear Collision,Total Loss,0,1,?,1,59800,5980,5980,47840,Ford,F150,1999
+124,29,OH,500/1000,500,1301.72,0,Multi-vehicle Collision,Side Collision,Major Damage,14,3,?,0,72000,7200,7200,57600,Audi,A3,2005
+343,48,IN,250/500,500,1451.54,3000000,Multi-vehicle Collision,Side Collision,Total Loss,13,4,NO,2,65070,7230,14460,43380,Mercedes,C300,2003
+404,53,IN,250/500,500,767.14,0,Parked Car,?,Trivial Damage,8,1,NO,0,8800,1760,880,6160,Suburu,Legacy,2002
+63,24,OH,250/500,2000,1620.89,0,Vehicle Theft,?,Minor Damage,7,1,NO,2,6120,1020,1020,4080,Toyota,Corolla,2015
+210,37,IN,500/1000,2000,1048.46,0,Vehicle Theft,?,Trivial Damage,9,1,?,1,7080,1180,590,5310,Dodge,RAM,1999
+335,50,OH,100/300,1000,1538.26,6000000,Multi-vehicle Collision,Side Collision,Minor Damage,12,3,YES,2,34320,8580,4290,21450,Volkswagen,Passat,2009
+11,40,OH,500/1000,2000,1217.69,0,Multi-vehicle Collision,Side Collision,Major Damage,6,3,?,1,53460,9720,9720,34020,Dodge,Neon,2004
+142,33,IN,100/300,2000,1362.64,5000000,Single Vehicle Collision,Side Collision,Total Loss,11,1,YES,1,81360,6780,13560,61020,Suburu,Legacy,2009
+272,43,OH,100/300,1000,1279.13,0,Multi-vehicle Collision,Side Collision,Minor Damage,5,3,?,1,81070,7370,14740,58960,Audi,A3,2006
+69,26,IL,100/300,2000,924.72,0,Single Vehicle Collision,Front Collision,Minor Damage,14,1,NO,2,63120,5260,10520,47340,Audi,A5,2008
+38,28,OH,250/500,1000,1019.44,0,Vehicle Theft,?,Trivial Damage,17,1,?,2,7200,1440,720,5040,BMW,X5,2004
+328,46,IL,500/1000,500,1314.6,0,Single Vehicle Collision,Rear Collision,Total Loss,0,1,?,2,70290,12780,6390,51120,Saab,92x,1998
+281,43,OH,100/300,1000,1515.18,6000000,Multi-vehicle Collision,Side Collision,Minor Damage,21,3,NO,1,60190,9260,9260,41670,BMW,X6,1999
+246,44,OH,250/500,2000,1649.18,0,Single Vehicle Collision,Front Collision,Major Damage,18,1,YES,1,61380,11160,5580,44640,Honda,Civic,2009
+298,49,OH,250/500,500,1451.01,0,Single Vehicle Collision,Front Collision,Minor Damage,17,1,NO,2,28100,2810,5620,19670,Jeep,Grand Cherokee,2012
+330,50,IL,500/1000,1000,978.46,0,Single Vehicle Collision,Side Collision,Total Loss,19,1,YES,0,49060,8920,8920,31220,Chevrolet,Silverado,1995
+362,50,IL,250/500,500,1198.34,4000000,Multi-vehicle Collision,Side Collision,Total Loss,17,3,?,1,57060,6340,6340,44380,Mercedes,E400,1995
+241,38,IN,100/300,2000,1003.23,0,Multi-vehicle Collision,Side Collision,Major Damage,23,3,?,0,77880,12980,12980,51920,Accura,MDX,2008
+245,41,IN,500/1000,2000,1212,0,Single Vehicle Collision,Front Collision,Total Loss,4,1,YES,0,73500,7350,14700,51450,Jeep,Wrangler,1999
+371,52,IL,250/500,1000,1242.96,7000000,Multi-vehicle Collision,Rear Collision,Minor Damage,2,2,YES,2,88920,6840,13680,68400,Accura,RSX,2010
+343,52,IL,500/1000,1000,1053.02,0,Single Vehicle Collision,Front Collision,Major Damage,2,1,?,0,47630,12990,4330,30310,Toyota,Corolla,2005
+377,53,IL,100/300,500,1693.63,0,Multi-vehicle Collision,Front Collision,Total Loss,10,3,YES,1,59040,6560,6560,45920,Saab,93,2015
+154,37,IL,250/500,1000,2047.59,0,Single Vehicle Collision,Rear Collision,Minor Damage,2,1,?,0,79530,14460,7230,57840,Accura,MDX,2000
+166,34,OH,100/300,1000,1083.72,0,Single Vehicle Collision,Side Collision,Total Loss,18,1,NO,0,53680,4880,4880,43920,Honda,CRV,2005
+298,46,OH,500/1000,1000,1138.42,6000000,Single Vehicle Collision,Side Collision,Minor Damage,18,1,NO,2,33550,3050,6100,24400,Volkswagen,Passat,2005
+235,42,IN,250/500,500,1072.62,0,Multi-vehicle Collision,Side Collision,Total Loss,7,4,?,2,69100,6910,6910,55280,Toyota,Highlander,2006
+172,35,IL,100/300,2000,1219.04,0,Multi-vehicle Collision,Rear Collision,Major Damage,19,3,?,2,79750,14500,14500,50750,Nissan,Pathfinder,1999
+27,28,IN,100/300,2000,1371.78,0,Multi-vehicle Collision,Front Collision,Major Damage,10,3,?,0,53600,5360,10720,37520,Audi,A5,2015
+428,54,IN,100/300,2000,1506.21,0,Multi-vehicle Collision,Side Collision,Minor Damage,16,3,NO,1,76560,12760,6380,57420,Nissan,Ultima,2009
+99,32,IN,100/300,1000,1058.21,3000000,Single Vehicle Collision,Front Collision,Total Loss,17,1,YES,1,41130,4570,4570,31990,Dodge,RAM,1999
+107,26,IL,500/1000,2000,932.14,0,Multi-vehicle Collision,Rear Collision,Total Loss,2,3,NO,2,78650,14300,7150,57200,Audi,A3,1996
+272,41,OH,500/1000,2000,1608.34,0,Single Vehicle Collision,Side Collision,Major Damage,19,1,?,1,71060,6460,12920,51680,Saab,92x,2010
+151,37,IN,500/1000,1000,1728.56,0,Single Vehicle Collision,Front Collision,Minor Damage,0,1,YES,1,38830,3530,3530,31770,Suburu,Legacy,1999
+249,43,IL,250/500,1000,1518.46,0,Single Vehicle Collision,Front Collision,Major Damage,16,1,?,0,53500,5350,5350,42800,Saab,92x,2015
+177,38,IL,100/300,2000,1540.19,0,Single Vehicle Collision,Front Collision,Major Damage,20,1,YES,2,73700,7370,7370,58960,Chevrolet,Silverado,2001
+190,40,OH,500/1000,2000,965.21,0,Parked Car,?,Trivial Damage,10,1,?,2,6300,630,630,5040,Nissan,Ultima,2001
+174,36,IL,100/300,2000,1278.75,0,Multi-vehicle Collision,Rear Collision,Total Loss,21,3,?,2,65400,10900,10900,43600,Dodge,RAM,2012
+95,28,OH,250/500,1000,773.99,0,Vehicle Theft,?,Trivial Damage,3,1,YES,1,3200,640,320,2240,Mercedes,E400,2014
+371,51,IN,500/1000,1000,1532.47,0,Single Vehicle Collision,Rear Collision,Major Damage,7,1,YES,0,75400,7540,15080,52780,Dodge,RAM,2012
+2,28,IL,250/500,1000,1340.56,0,Single Vehicle Collision,Side Collision,Minor Damage,19,1,YES,0,58140,6460,6460,45220,Saab,92x,2008
+269,44,OH,100/300,500,1297.75,4000000,Multi-vehicle Collision,Rear Collision,Total Loss,15,3,?,0,98670,15180,15180,68310,Chevrolet,Tahoe,2010
+101,27,IL,250/500,1000,433.33,0,Parked Car,?,Minor Damage,7,1,?,0,5900,1180,590,4130,Mercedes,E400,2009
+94,30,IN,250/500,2000,1025.54,0,Single Vehicle Collision,Rear Collision,Major Damage,19,1,?,1,64100,6410,6410,51280,Chevrolet,Malibu,2001
+117,28,OH,250/500,500,1264.77,0,Multi-vehicle Collision,Rear Collision,Total Loss,13,2,YES,0,55440,5040,10080,40320,Suburu,Forrestor,2009
+111,27,OH,250/500,500,1459.97,5000000,Multi-vehicle Collision,Side Collision,Major Damage,2,3,NO,1,80850,7350,14700,58800,Ford,F150,2011
+242,40,OH,100/300,500,1238.65,0,Vehicle Theft,?,Trivial Damage,5,1,YES,1,7480,680,680,6120,Saab,95,1998
+440,61,OH,250/500,500,1050.76,0,Single Vehicle Collision,Side Collision,Major Damage,21,1,?,2,53640,5960,5960,41720,Nissan,Maxima,2004
+20,23,OH,500/1000,1000,1711.72,0,Multi-vehicle Collision,Rear Collision,Major Damage,21,3,NO,2,63250,5750,11500,46000,Chevrolet,Tahoe,2002
+461,57,IL,100/300,500,865.33,7000000,Multi-vehicle Collision,Side Collision,Major Damage,7,3,NO,0,59040,9840,9840,39360,Dodge,RAM,1995
+208,36,IL,250/500,500,1153.49,0,Multi-vehicle Collision,Side Collision,Total Loss,16,3,YES,1,50500,10100,5050,35350,Accura,TL,2004
+279,43,OH,500/1000,2000,1281.25,0,Single Vehicle Collision,Side Collision,Major Damage,13,1,YES,0,57690,6410,12820,38460,Mercedes,C300,2010
+244,40,IL,100/300,500,1342.8,0,Vehicle Theft,?,Trivial Damage,2,1,YES,1,5940,660,660,4620,Toyota,Camry,2014
+134,30,OH,250/500,2000,1443.32,0,Multi-vehicle Collision,Rear Collision,Major Damage,19,3,?,0,47790,5310,5310,37170,Suburu,Impreza,1995
+122,29,OH,250/500,1000,1629.94,0,Parked Car,?,Trivial Damage,17,1,?,0,3850,350,350,3150,Dodge,Neon,2014
+156,31,IL,100/300,2000,1134.08,0,Single Vehicle Collision,Front Collision,Major Damage,3,1,?,2,59000,5900,5900,47200,Ford,Fusion,2013
+232,43,OH,250/500,500,1483.91,8000000,Multi-vehicle Collision,Rear Collision,Major Damage,17,3,NO,0,70600,7060,14120,49420,Volkswagen,Passat,2013
+244,40,IN,500/1000,2000,1304.67,7000000,Multi-vehicle Collision,Side Collision,Minor Damage,5,3,?,1,61490,5590,11180,44720,Dodge,RAM,2001
+84,30,IL,500/1000,2000,1035.79,0,Single Vehicle Collision,Side Collision,Minor Damage,9,1,NO,1,57640,5240,10480,41920,Volkswagen,Passat,2010
+394,57,IL,250/500,500,1401.2,0,Vehicle Theft,?,Trivial Damage,9,1,NO,1,6890,1060,1060,4770,Audi,A5,1999
+246,45,IL,250/500,1000,1665.45,0,Multi-vehicle Collision,Side Collision,Major Damage,9,3,?,2,53280,11840,5920,35520,Toyota,Camry,2006
+35,29,IN,500/1000,2000,653.66,0,Multi-vehicle Collision,Rear Collision,Minor Damage,22,3,NO,0,78300,15660,7830,54810,BMW,X5,2009
+156,37,OH,100/300,500,1080.13,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,YES,0,41490,4610,4610,32270,Nissan,Pathfinder,2001
+195,36,IN,100/300,2000,1346.18,0,Multi-vehicle Collision,Front Collision,Total Loss,14,3,YES,2,68970,12540,6270,50160,Chevrolet,Tahoe,2007
+369,55,OH,250/500,2000,1589.54,0,Multi-vehicle Collision,Rear Collision,Minor Damage,6,3,?,2,85300,17060,8530,59710,Toyota,Highlander,2003
+271,40,IL,100/300,1000,1251.65,0,Parked Car,?,Minor Damage,6,1,NO,0,3080,560,280,2240,Audi,A3,2012
+332,47,IL,100/300,2000,1083.01,0,Multi-vehicle Collision,Front Collision,Major Damage,22,4,YES,2,71760,11040,11040,49680,Jeep,Grand Cherokee,2010
+107,26,OH,100/300,500,974.59,0,Multi-vehicle Collision,Rear Collision,Minor Damage,14,3,?,1,59700,11940,11940,35820,Nissan,Ultima,2002
+217,39,IL,500/1000,2000,1399.85,0,Multi-vehicle Collision,Front Collision,Minor Damage,16,3,NO,0,64920,10820,10820,43280,Ford,Fusion,1997
+243,43,IN,500/1000,500,1307.74,0,Multi-vehicle Collision,Front Collision,Major Damage,10,3,?,0,37530,4170,4170,29190,Jeep,Wrangler,2008
+296,42,IN,250/500,2000,1219.27,0,Multi-vehicle Collision,Side Collision,Total Loss,9,3,YES,1,64080,7120,7120,49840,Saab,93,2012
+264,41,OH,100/300,500,1411.3,0,Single Vehicle Collision,Rear Collision,Minor Damage,4,1,NO,1,60390,10980,5490,43920,BMW,M5,2004
+108,33,IL,100/300,2000,694.45,0,Multi-vehicle Collision,Side Collision,Major Damage,6,3,?,0,64350,5850,11700,46800,Nissan,Pathfinder,2011
+32,38,IL,100/300,500,1006.77,6000000,Multi-vehicle Collision,Side Collision,Minor Damage,15,3,YES,2,70900,14180,7090,49630,BMW,X6,1997
+259,39,OH,250/500,1000,1422.36,0,Multi-vehicle Collision,Side Collision,Minor Damage,12,3,NO,1,46560,7760,7760,31040,Nissan,Ultima,2012
+186,33,IN,100/300,1000,1348.32,0,Vehicle Theft,?,Trivial Damage,3,1,NO,2,4730,860,860,3010,Chevrolet,Malibu,2013
+201,40,OH,250/500,2000,1315.56,0,Vehicle Theft,?,Minor Damage,14,1,YES,0,6820,1240,1240,4340,Jeep,Grand Cherokee,2003
+436,58,OH,250/500,2000,1407.01,5000000,Single Vehicle Collision,Rear Collision,Major Damage,10,1,?,0,59900,11980,5990,41930,BMW,X5,1997
+189,36,OH,250/500,2000,1388.58,0,Multi-vehicle Collision,Side Collision,Major Damage,17,3,?,1,79560,13260,13260,53040,Ford,Escape,2009
+105,33,IL,500/1000,500,1310.76,0,Single Vehicle Collision,Front Collision,Total Loss,8,1,YES,0,70290,12780,6390,51120,Accura,MDX,2008
+163,31,IN,100/300,1000,1004.63,6000000,Multi-vehicle Collision,Rear Collision,Total Loss,14,3,YES,2,63910,5810,11620,46480,Suburu,Forrestor,1999
+219,40,OH,100/300,500,1134.91,0,Vehicle Theft,?,Trivial Damage,6,1,?,1,6400,640,640,5120,Toyota,Camry,1997
+88,25,IN,250/500,1000,1194,0,Single Vehicle Collision,Rear Collision,Major Damage,6,1,YES,1,66780,7420,7420,51940,Ford,Escape,2013
+40,39,IN,500/1000,1000,1248.25,4000000,Parked Car,?,Minor Damage,8,1,NO,0,8760,1460,1460,5840,BMW,3 Series,2013
+284,42,OH,100/300,500,1338.54,-1000000,Single Vehicle Collision,Side Collision,Major Damage,13,1,YES,0,94160,8560,17120,68480,Chevrolet,Malibu,1996
+59,40,IL,250/500,2000,782.23,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,?,0,51570,5730,11460,34380,BMW,X5,2010
+39,31,IL,250/500,2000,1366.9,0,Multi-vehicle Collision,Rear Collision,Major Damage,14,3,?,1,52700,10540,10540,31620,BMW,X6,2014
+147,34,IL,500/1000,1000,1275.81,0,Single Vehicle Collision,Side Collision,Minor Damage,13,1,YES,2,101010,15540,15540,69930,Mercedes,ML350,1998
+156,37,IN,250/500,500,1090.65,0,Multi-vehicle Collision,Rear Collision,Minor Damage,16,4,?,1,53400,5340,5340,42720,Honda,Civic,2010
+123,31,IN,250/500,500,1326,0,Single Vehicle Collision,Side Collision,Total Loss,13,1,?,1,72120,12020,12020,48080,Mercedes,ML350,2009
+231,43,IL,250/500,2000,972.47,0,Multi-vehicle Collision,Front Collision,Minor Damage,15,3,YES,2,77100,7710,15420,53970,Audi,A3,2010
+247,39,IL,100/300,500,806.31,0,Parked Car,?,Trivial Damage,3,1,?,2,3300,600,0,2700,Dodge,RAM,2003
+194,35,IL,500/1000,500,1416.24,0,Parked Car,?,Minor Damage,7,1,YES,1,5940,1080,540,4320,Nissan,Pathfinder,2003
+119,27,IN,250/500,2000,1097.64,0,Multi-vehicle Collision,Rear Collision,Major Damage,16,2,NO,1,63720,7080,21240,35400,Accura,TL,2006
+259,43,IL,100/300,500,947.75,0,Vehicle Theft,?,Trivial Damage,15,1,NO,1,7680,1280,640,5760,Audi,A5,2008
+107,31,IL,100/300,2000,1018.73,5000000,Multi-vehicle Collision,Side Collision,Total Loss,21,3,YES,1,93730,14420,21630,57680,Honda,CRV,2001
+48,44,IL,100/300,2000,1400.74,0,Multi-vehicle Collision,Rear Collision,Major Damage,23,3,YES,0,87300,17460,17460,52380,Jeep,Wrangler,2013
+267,40,IL,250/500,500,1155.53,5000000,Parked Car,?,Trivial Damage,5,1,?,0,5670,1260,630,3780,Ford,F150,1997
+286,47,IN,250/500,500,1386.93,0,Multi-vehicle Collision,Rear Collision,Minor Damage,15,3,YES,0,65800,13160,6580,46060,Accura,TL,2001
+175,34,OH,100/300,500,915.29,0,Single Vehicle Collision,Front Collision,Major Damage,14,1,?,2,36720,4080,4080,28560,Honda,Accord,2009
+111,29,IL,250/500,500,1239.55,2000000,Single Vehicle Collision,Side Collision,Major Damage,1,1,?,1,52800,4800,9600,38400,Mercedes,ML350,1996
+151,37,IN,250/500,500,1366.42,0,Multi-vehicle Collision,Rear Collision,Total Loss,14,3,NO,1,59100,5910,5910,47280,Nissan,Maxima,1998
+156,37,OH,500/1000,1000,1086.48,6000000,Multi-vehicle Collision,Rear Collision,Total Loss,17,3,?,1,77440,14080,7040,56320,Suburu,Legacy,1999
+165,36,IL,250/500,2000,1247.87,0,Multi-vehicle Collision,Side Collision,Total Loss,20,3,NO,2,45700,4570,4570,36560,BMW,3 Series,2008
+253,41,OH,100/300,2000,1312.75,0,Multi-vehicle Collision,Rear Collision,Major Damage,10,3,NO,2,80740,7340,14680,58720,Toyota,Camry,2014
+10,26,IN,100/300,2000,765.64,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,?,0,31350,2850,5700,22800,Honda,Accord,2001
+158,33,OH,100/300,2000,1327.41,0,Single Vehicle Collision,Side Collision,Total Loss,0,1,?,0,35000,3500,7000,24500,Suburu,Legacy,2012
+436,59,OH,500/1000,1000,1338.55,0,Multi-vehicle Collision,Side Collision,Total Loss,10,3,?,2,68000,13600,6800,47600,Toyota,Corolla,2014
+91,30,IL,250/500,2000,1316.63,8000000,Multi-vehicle Collision,Side Collision,Minor Damage,13,3,YES,2,84500,13000,13000,58500,BMW,X6,2009
+256,42,IL,500/1000,1000,1286.44,0,Single Vehicle Collision,Rear Collision,Minor Damage,14,1,NO,2,75500,7550,15100,52850,Nissan,Ultima,1998
+274,46,OH,500/1000,1000,1372.18,0,Multi-vehicle Collision,Side Collision,Total Loss,22,3,NO,1,90600,15100,15100,60400,BMW,X5,2009
+275,45,IN,500/1000,2000,1447.77,0,Multi-vehicle Collision,Side Collision,Total Loss,8,3,YES,1,64320,5360,10720,48240,Accura,MDX,1998
+1,33,IL,250/500,500,903.32,0,Multi-vehicle Collision,Rear Collision,Minor Damage,1,3,?,1,31700,6340,3170,22190,Toyota,Highlander,2006
+85,30,IN,500/1000,1000,1454.42,0,Single Vehicle Collision,Side Collision,Major Damage,19,1,YES,0,74280,12380,12380,49520,Suburu,Forrestor,2006
+233,37,IL,100/300,2000,1603.42,0,Single Vehicle Collision,Front Collision,Total Loss,17,1,YES,0,80520,13420,6710,60390,Toyota,Corolla,2005
+142,30,IN,250/500,2000,1616.58,0,Multi-vehicle Collision,Rear Collision,Major Damage,13,3,YES,0,63600,6360,12720,44520,Dodge,RAM,2010
+266,44,IL,250/500,500,1611.83,0,Single Vehicle Collision,Front Collision,Total Loss,4,1,?,1,32800,3280,3280,26240,BMW,3 Series,2012
+350,50,OH,500/1000,500,889.13,0,Multi-vehicle Collision,Rear Collision,Total Loss,14,3,NO,0,44190,9820,4910,29460,Audi,A3,2015
+97,26,IL,250/500,1000,1252.08,0,Multi-vehicle Collision,Rear Collision,Major Damage,4,2,YES,2,50400,10080,5040,35280,Honda,CRV,2000
+399,55,IL,500/1000,2000,995.56,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,YES,1,88400,17680,8840,61880,Nissan,Pathfinder,2010
+305,49,IL,100/300,2000,1347.92,0,Multi-vehicle Collision,Front Collision,Total Loss,21,3,YES,0,66550,12100,6050,48400,Volkswagen,Jetta,2003
+276,47,IN,100/300,1000,1724.09,0,Multi-vehicle Collision,Rear Collision,Minor Damage,23,3,YES,0,65780,5980,11960,47840,Chevrolet,Tahoe,2014
+257,40,IN,250/500,500,1379.93,0,Multi-vehicle Collision,Side Collision,Major Damage,6,3,?,0,51810,9420,4710,37680,Audi,A3,2002
+78,31,IN,250/500,1000,1554.64,4000000,Single Vehicle Collision,Front Collision,Major Damage,21,1,NO,1,55660,5060,10120,40480,Honda,CRV,2009
+129,28,OH,500/1000,1000,1377.94,0,Single Vehicle Collision,Side Collision,Major Damage,23,1,?,2,44640,9920,4960,29760,Toyota,Camry,2005
+283,46,IL,500/1000,2000,1313.33,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,?,1,77660,7060,14120,56480,Nissan,Maxima,2004
+85,25,IN,250/500,500,1259.02,0,Parked Car,?,Trivial Damage,8,1,NO,2,5640,940,940,3760,Nissan,Ultima,2005
+101,26,IL,500/1000,1000,1371.88,0,Parked Car,?,Trivial Damage,4,1,?,2,3190,580,580,2030,Suburu,Legacy,1995
+96,30,OH,100/300,500,1399.27,6000000,Single Vehicle Collision,Side Collision,Total Loss,22,1,?,0,53440,0,6680,46760,Ford,Escape,2004
+121,31,IL,500/1000,1000,1061.98,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,NO,0,65250,7250,7250,50750,BMW,3 Series,2002
+176,39,OH,250/500,500,1365.46,4000000,Multi-vehicle Collision,Side Collision,Minor Damage,14,3,NO,2,44280,4920,4920,34440,Chevrolet,Silverado,2008
+159,37,IL,500/1000,1000,894.4,0,Single Vehicle Collision,Rear Collision,Total Loss,13,1,YES,2,70290,7810,7810,54670,Dodge,RAM,1999
+120,30,IN,250/500,500,956.69,0,Single Vehicle Collision,Front Collision,Minor Damage,20,1,?,1,87100,8710,8710,69680,Saab,92x,2000
+212,35,IN,500/1000,2000,1123.89,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,?,1,50380,4580,4580,41220,Suburu,Forrestor,1996
+290,45,IL,100/300,500,1085.03,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,YES,2,64800,12960,6480,45360,Audi,A3,2014
+299,42,OH,100/300,2000,1437.33,0,Single Vehicle Collision,Rear Collision,Minor Damage,13,1,YES,1,70400,12800,12800,44800,BMW,3 Series,2000
+66,26,IL,250/500,1000,988.29,0,Single Vehicle Collision,Rear Collision,Major Damage,8,1,?,2,57860,0,10520,47340,Suburu,Impreza,2008
+334,47,IL,500/1000,500,1238.89,0,Vehicle Theft,?,Minor Damage,3,1,?,0,6240,960,960,4320,Ford,Fusion,2011
+216,38,IN,100/300,1000,1384.64,5000000,Single Vehicle Collision,Rear Collision,Total Loss,16,1,?,2,66600,16650,11100,38850,Jeep,Grand Cherokee,2012
+86,28,IN,100/300,2000,1595.07,0,Single Vehicle Collision,Side Collision,Minor Damage,19,1,YES,0,70920,11820,11820,47280,Jeep,Wrangler,2002
+429,56,OH,250/500,1000,1127.89,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,0,1,YES,2,39480,6580,6580,26320,Suburu,Forrestor,2002
+257,43,IN,500/1000,2000,929.7,6000000,Single Vehicle Collision,Front Collision,Total Loss,12,1,?,2,63240,10540,5270,47430,Mercedes,E400,2005
+15,34,IL,100/300,1000,1829.63,0,Multi-vehicle Collision,Side Collision,Total Loss,21,3,YES,1,67650,12300,6150,49200,Audi,A5,2009
+230,39,IL,100/300,1000,904.7,7000000,Single Vehicle Collision,Front Collision,Major Damage,0,1,?,1,74200,14840,14840,44520,Accura,TL,2002
+250,43,OH,500/1000,1000,1243.84,0,Single Vehicle Collision,Side Collision,Minor Damage,22,1,YES,1,64900,12980,12980,38940,Volkswagen,Jetta,2011
+270,44,IL,500/1000,2000,1030.95,0,Multi-vehicle Collision,Rear Collision,Major Damage,20,3,?,1,35900,7180,3590,25130,Audi,A3,2007
+65,26,IN,100/300,500,1285.03,3000000,Single Vehicle Collision,Rear Collision,Minor Damage,0,1,NO,1,52200,5220,10440,36540,Honda,CRV,2011
+475,57,OH,100/300,500,1216.56,0,Single Vehicle Collision,Front Collision,Minor Damage,20,1,?,0,78000,6500,13000,58500,Suburu,Forrestor,2000
+77,27,IN,500/1000,2000,966.26,0,Multi-vehicle Collision,Front Collision,Minor Damage,1,3,YES,0,67200,6720,6720,53760,Volkswagen,Passat,1995
+256,43,OH,100/300,500,1203.17,0,Single Vehicle Collision,Rear Collision,Total Loss,11,1,NO,0,63250,11500,5750,46000,Nissan,Ultima,1997
+229,37,IL,250/500,2000,1212.12,0,Multi-vehicle Collision,Side Collision,Major Damage,14,3,YES,1,68760,11460,5730,51570,Ford,Fusion,1995
+110,28,OH,250/500,1000,1573.93,0,Multi-vehicle Collision,Side Collision,Minor Damage,20,3,YES,0,65040,10840,10840,43360,Suburu,Impreza,2010
+177,33,IL,100/300,1000,1609.67,0,Single Vehicle Collision,Side Collision,Major Damage,22,1,?,1,82800,20700,13800,48300,Jeep,Grand Cherokee,2004
+292,44,OH,500/1000,500,1097.57,0,Single Vehicle Collision,Side Collision,Total Loss,12,1,NO,1,61700,6170,6170,49360,Saab,93,2005
+451,61,IN,250/500,2000,1618.65,2000000,Multi-vehicle Collision,Rear Collision,Major Damage,3,3,YES,2,78100,15620,7810,54670,Chevrolet,Tahoe,1997
+61,24,IN,100/300,500,922.67,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,YES,2,65520,9360,9360,46800,Toyota,Highlander,2011
+150,30,IN,100/300,1000,1342.02,0,Parked Car,?,Trivial Damage,8,1,YES,0,4500,450,450,3600,Saab,93,1999
+283,41,OH,100/300,500,1195.01,0,Multi-vehicle Collision,Side Collision,Major Damage,13,3,NO,0,42700,0,6100,36600,Mercedes,ML350,2011
+291,46,OH,500/1000,1000,994.74,0,Parked Car,?,Minor Damage,8,1,NO,2,5580,620,620,4340,Volkswagen,Passat,2005
+162,31,IN,100/300,1000,1050.24,0,Parked Car,?,Minor Damage,7,1,?,0,3600,360,720,2520,BMW,X5,2013
+154,36,IL,250/500,2000,1313.51,7000000,Vehicle Theft,?,Trivial Damage,9,1,?,2,2800,280,280,2240,Volkswagen,Passat,2015
+289,47,OH,500/1000,2000,1102.29,0,Single Vehicle Collision,Front Collision,Minor Damage,15,1,NO,1,54000,6000,6000,42000,Toyota,Highlander,1996
+10,19,IN,250/500,1000,1185.78,0,Single Vehicle Collision,Side Collision,Minor Damage,5,1,?,0,48950,4450,8900,35600,Accura,TL,2011
+309,47,IL,500/1000,500,1527.95,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,4,YES,0,77800,15560,15560,46680,Dodge,RAM,2002
+396,57,IN,100/300,1000,1366.39,0,Multi-vehicle Collision,Front Collision,Major Damage,22,3,YES,2,52560,11680,5840,35040,Saab,93,1995
+273,41,OH,500/1000,1000,1403.9,0,Multi-vehicle Collision,Side Collision,Total Loss,16,2,?,1,44110,4010,8020,32080,Honda,Accord,2015
+129,30,IL,500/1000,2000,927.23,0,Single Vehicle Collision,Front Collision,Total Loss,7,1,NO,1,74360,13520,6760,54080,Suburu,Forrestor,2009
+140,31,OH,250/500,2000,1554.86,6000000,Parked Car,?,Minor Damage,2,1,YES,1,6120,680,680,4760,Honda,Civic,2002
+419,53,IL,500/1000,2000,736.07,6000000,Multi-vehicle Collision,Side Collision,Minor Damage,17,4,?,0,62280,5190,10380,46710,Suburu,Forrestor,2012
+315,44,IL,250/500,1000,974.16,6000000,Multi-vehicle Collision,Front Collision,Total Loss,12,3,?,1,26730,4860,4860,17010,Volkswagen,Jetta,2006
+72,29,OH,500/1000,500,973.8,0,Single Vehicle Collision,Rear Collision,Major Damage,9,1,?,1,66200,6620,6620,52960,Dodge,Neon,2013
+32,26,OH,100/300,2000,1260.32,6000000,Single Vehicle Collision,Side Collision,Total Loss,16,1,?,1,45500,9100,4550,31850,Toyota,Corolla,2009
+230,41,IN,100/300,1000,1464.03,0,Multi-vehicle Collision,Side Collision,Minor Damage,19,3,?,2,53040,4420,4420,44200,Audi,A3,2006
+157,32,OH,100/300,2000,617.11,0,Multi-vehicle Collision,Front Collision,Major Damage,14,3,?,1,50800,10160,5080,35560,Mercedes,E400,2013
+265,41,IN,250/500,2000,1724.46,6000000,Multi-vehicle Collision,Side Collision,Total Loss,18,3,?,1,44200,4420,4420,35360,Audi,A5,2014
+47,34,IL,500/1000,500,1161.31,0,Single Vehicle Collision,Front Collision,Minor Damage,23,1,YES,1,62920,11440,5720,45760,Chevrolet,Malibu,2012
+113,29,OH,250/500,2000,1091.73,0,Multi-vehicle Collision,Rear Collision,Minor Damage,15,3,?,0,49950,5550,5550,38850,Nissan,Ultima,2004
+289,46,IL,250/500,2000,1209.07,0,Single Vehicle Collision,Rear Collision,Minor Damage,18,1,YES,0,56430,6270,6270,43890,BMW,3 Series,1995
+254,41,IL,250/500,2000,1241.04,0,Single Vehicle Collision,Front Collision,Minor Damage,16,1,NO,2,100210,18220,18220,63770,Audi,A5,2014
+115,30,OH,500/1000,500,1757.21,0,Multi-vehicle Collision,Front Collision,Minor Damage,12,3,NO,1,49140,5460,5460,38220,Ford,F150,2007
+236,38,OH,250/500,1000,802.24,0,Single Vehicle Collision,Side Collision,Major Damage,16,1,NO,0,66840,16710,5570,44560,Mercedes,E400,2014
+7,21,IN,500/1000,1000,1342.72,0,Single Vehicle Collision,Front Collision,Total Loss,21,1,?,1,62460,6940,6940,48580,Honda,Accord,2003
+208,36,OH,100/300,2000,1209.41,5000000,Multi-vehicle Collision,Side Collision,Total Loss,15,3,YES,0,62810,11420,11420,39970,Nissan,Ultima,1999
+126,33,OH,500/1000,1000,1141.71,2000000,Single Vehicle Collision,Front Collision,Major Damage,21,1,YES,1,54160,6770,6770,40620,Suburu,Legacy,2009
+48,35,IL,100/300,500,1090.03,0,Single Vehicle Collision,Rear Collision,Major Damage,1,1,YES,0,48400,9680,4840,33880,Saab,92x,2005
+297,48,IN,250/500,1000,1464.73,3000000,Multi-vehicle Collision,Side Collision,Total Loss,17,3,?,0,51480,5720,5720,40040,Toyota,Highlander,2013
+160,36,OH,100/300,1000,1118.58,0,Multi-vehicle Collision,Rear Collision,Total Loss,5,3,NO,2,51700,5170,10340,36190,Saab,95,2003
+406,58,OH,250/500,2000,1117.04,0,Multi-vehicle Collision,Front Collision,Total Loss,15,3,?,1,65520,10920,5460,49140,Volkswagen,Jetta,2009
+157,31,IN,500/1000,500,1257.83,7000000,Multi-vehicle Collision,Rear Collision,Major Damage,2,4,NO,2,47700,4770,9540,33390,Accura,TL,2011
+146,31,OH,250/500,2000,1082.72,0,Vehicle Theft,?,Minor Damage,3,1,YES,2,5220,580,580,4060,Accura,MDX,2015
+409,57,IN,100/300,1000,1191.8,6000000,Single Vehicle Collision,Side Collision,Major Damage,19,1,NO,1,73320,6110,12220,54990,Ford,Fusion,2012
+252,46,IN,100/300,1000,1242.02,0,Single Vehicle Collision,Front Collision,Minor Damage,17,1,YES,0,74900,14980,7490,52430,Jeep,Grand Cherokee,2003
+6,27,OH,250/500,500,1075.71,0,Vehicle Theft,?,Trivial Damage,7,1,?,0,3190,580,290,2320,Saab,95,2015
+103,33,IN,100/300,1000,969.88,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,21,1,NO,1,76920,12820,6410,57690,Chevrolet,Malibu,2002
+369,53,OH,250/500,2000,1459.93,0,Multi-vehicle Collision,Front Collision,Total Loss,10,2,YES,1,77990,7090,14180,56720,Jeep,Wrangler,2012
+261,46,IL,500/1000,1000,1245.61,0,Single Vehicle Collision,Front Collision,Total Loss,11,1,YES,1,59670,9180,9180,41310,Ford,Escape,2008
+159,33,IN,100/300,2000,1462.76,0,Multi-vehicle Collision,Rear Collision,Major Damage,23,3,YES,2,44880,8160,4080,32640,Mercedes,C300,2004
+344,51,IN,100/300,2000,1398.46,0,Single Vehicle Collision,Side Collision,Minor Damage,14,1,?,0,82830,7530,15060,60240,Audi,A5,2004
+437,60,OH,500/1000,1000,1269.64,0,Single Vehicle Collision,Front Collision,Minor Damage,10,1,NO,1,84480,7680,15360,61440,Chevrolet,Silverado,2012
+65,30,IN,100/300,500,1455.65,4000000,Multi-vehicle Collision,Side Collision,Total Loss,6,3,?,2,79800,15960,7980,55860,Honda,Civic,1999
+280,41,OH,500/1000,2000,1140.31,0,Multi-vehicle Collision,Rear Collision,Minor Damage,10,3,?,0,53020,9640,9640,33740,Toyota,Corolla,1999
+269,45,IN,500/1000,500,1330.46,0,Multi-vehicle Collision,Side Collision,Total Loss,5,3,?,0,24200,2200,4400,17600,Suburu,Forrestor,2008
+275,40,OH,250/500,2000,1190.6,0,Single Vehicle Collision,Rear Collision,Minor Damage,17,1,?,1,43230,7860,7860,27510,Chevrolet,Silverado,2001
+265,45,OH,250/500,500,972.5,0,Vehicle Theft,?,Trivial Damage,3,1,NO,2,3190,290,580,2320,Ford,Escape,1995
+283,43,IN,100/300,2000,1161.91,0,Parked Car,?,Minor Damage,9,1,?,0,5850,1300,650,3900,BMW,M5,2006
+84,29,OH,250/500,1000,1117.17,0,Parked Car,?,Trivial Damage,6,1,YES,2,6820,620,1240,4960,BMW,3 Series,2005
+247,44,OH,250/500,2000,1101.51,0,Multi-vehicle Collision,Front Collision,Minor Damage,22,3,NO,2,69480,11580,11580,46320,Chevrolet,Tahoe,2008
+56,29,IL,100/300,1000,1523.17,0,Multi-vehicle Collision,Front Collision,Major Damage,10,3,?,1,94560,7880,15760,70920,Jeep,Grand Cherokee,1995
+210,39,OH,500/1000,1000,984.45,0,Vehicle Theft,?,Minor Damage,4,1,YES,1,7800,780,780,6240,Dodge,RAM,1997
+108,32,OH,500/1000,2000,1257,4000000,Single Vehicle Collision,Front Collision,Total Loss,23,1,NO,1,61270,5570,11140,44560,Suburu,Legacy,1999
+328,49,OH,500/1000,500,1434.51,0,Single Vehicle Collision,Rear Collision,Total Loss,19,1,?,0,71440,8930,8930,53580,Mercedes,ML350,2005
+186,37,OH,250/500,2000,1628,0,Single Vehicle Collision,Rear Collision,Total Loss,22,1,YES,1,55600,11120,5560,38920,Jeep,Grand Cherokee,2009
+277,44,IN,500/1000,500,1412.31,0,Vehicle Theft,?,Trivial Damage,6,1,NO,1,5000,1000,500,3500,Jeep,Wrangler,2005
+138,33,IL,250/500,500,1362.87,5000000,Single Vehicle Collision,Side Collision,Minor Damage,6,1,NO,2,95810,14740,14740,66330,BMW,X5,2007
+208,41,IN,100/300,1000,1134.68,0,Single Vehicle Collision,Rear Collision,Major Damage,18,1,NO,2,69300,6930,13860,48510,Volkswagen,Jetta,1996
+147,37,IN,250/500,1000,1306.78,0,Single Vehicle Collision,Front Collision,Total Loss,22,1,?,1,81120,13520,20280,47320,Toyota,Camry,1995
+8,21,IN,500/1000,500,1021.9,0,Single Vehicle Collision,Front Collision,Major Damage,21,1,?,0,91260,14040,14040,63180,Toyota,Corolla,2012
+297,48,IN,100/300,1000,1538.6,0,Single Vehicle Collision,Side Collision,Minor Damage,12,1,?,0,60600,6060,12120,42420,Ford,Fusion,2004
+150,31,IN,500/1000,1000,1354.5,0,Multi-vehicle Collision,Front Collision,Major Damage,6,3,?,0,64800,6480,12960,45360,Suburu,Forrestor,2000
+4,34,OH,500/1000,500,1282.93,0,Multi-vehicle Collision,Side Collision,Major Damage,0,4,?,0,66880,6080,12160,48640,Chevrolet,Silverado,1996
+210,35,IL,500/1000,1000,1346.27,0,Single Vehicle Collision,Front Collision,Total Loss,11,1,NO,0,58200,5820,5820,46560,BMW,X5,2013
+91,31,IN,100/300,1000,1338.4,4000000,Single Vehicle Collision,Side Collision,Minor Damage,19,1,?,1,60570,6730,6730,47110,Nissan,Maxima,2011
+167,36,IL,100/300,1000,949.44,0,Multi-vehicle Collision,Rear Collision,Major Damage,22,3,?,0,69680,8710,8710,52260,Mercedes,ML350,2008
+467,58,IN,500/1000,2000,977.4,0,Single Vehicle Collision,Front Collision,Total Loss,2,1,YES,2,55700,5570,11140,38990,Nissan,Maxima,2014
+264,47,IN,250/500,2000,1181.46,10000000,Multi-vehicle Collision,Front Collision,Total Loss,16,4,YES,1,62370,5670,5670,51030,Dodge,Neon,2001
+270,45,OH,500/1000,500,1187.53,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,?,0,54340,9880,0,44460,Saab,92x,2005
+310,48,OH,100/300,1000,845.16,0,Single Vehicle Collision,Front Collision,Major Damage,21,1,YES,1,55170,6130,6130,42910,Audi,A5,2005
+143,34,IL,100/300,500,1442.27,0,Single Vehicle Collision,Front Collision,Minor Damage,10,1,?,2,58500,11700,5850,40950,Dodge,RAM,1999
+146,32,OH,100/300,2000,1276.43,0,Single Vehicle Collision,Rear Collision,Major Damage,12,1,?,0,59940,6660,6660,46620,Honda,CRV,1995
+102,28,OH,250/500,500,1075.41,0,Single Vehicle Collision,Side Collision,Total Loss,6,1,NO,1,73400,7340,7340,58720,Dodge,Neon,1996
+61,23,IL,100/300,500,1111.72,0,Single Vehicle Collision,Side Collision,Major Damage,6,1,?,1,41850,4650,4650,32550,Suburu,Legacy,1997
+255,44,OH,500/1000,2000,814.96,6000000,Parked Car,?,Trivial Damage,7,1,?,2,6400,640,1280,4480,Mercedes,ML350,2005
+211,40,IL,500/1000,1000,1575.86,0,Vehicle Theft,?,Trivial Damage,3,1,NO,1,3190,580,290,2320,Audi,A5,2004
+61,29,IN,250/500,1000,1115.27,0,Parked Car,?,Trivial Damage,10,1,YES,2,5900,590,590,4720,Nissan,Pathfinder,2010
+108,31,IN,500/1000,2000,1175.7,0,Single Vehicle Collision,Rear Collision,Total Loss,14,1,NO,0,57330,6370,6370,44590,Dodge,Neon,2006
+303,50,OH,100/300,500,793.15,0,Multi-vehicle Collision,Front Collision,Total Loss,17,3,NO,0,81960,13660,13660,54640,Dodge,Neon,2008
+152,33,IN,250/500,500,942.51,0,Single Vehicle Collision,Side Collision,Major Damage,16,1,YES,0,70400,6400,19200,44800,Suburu,Legacy,2001
+120,34,IN,500/1000,1000,1056.71,0,Parked Car,?,Minor Damage,3,1,NO,2,3770,580,580,2610,Jeep,Grand Cherokee,2002
+144,36,IN,500/1000,2000,1255.68,6000000,Parked Car,?,Minor Damage,7,1,NO,0,7400,740,1480,5180,Dodge,Neon,2014
+414,52,IN,500/1000,500,1335.13,0,Single Vehicle Collision,Rear Collision,Total Loss,13,1,YES,1,54810,6090,6090,42630,Chevrolet,Silverado,1999
+163,37,IN,250/500,500,1178.95,6000000,Single Vehicle Collision,Rear Collision,Total Loss,20,1,YES,2,49400,4940,9880,34580,Jeep,Wrangler,2005
+352,53,IL,250/500,500,1793.16,0,Single Vehicle Collision,Front Collision,Minor Damage,23,1,YES,2,68750,12500,6250,50000,Chevrolet,Malibu,2009
+27,32,OH,100/300,500,1008.38,0,Single Vehicle Collision,Front Collision,Total Loss,11,1,NO,1,61500,12300,6150,43050,Dodge,Neon,2013
+239,39,IL,100/300,500,1396.83,0,Multi-vehicle Collision,Rear Collision,Major Damage,0,4,?,0,76890,6990,13980,55920,BMW,X6,2007
+33,32,OH,100/300,500,1402.78,5000000,Single Vehicle Collision,Rear Collision,Minor Damage,2,1,YES,0,56070,6230,12460,37380,Toyota,Camry,2012
+88,30,IN,100/300,1000,1437.88,0,Single Vehicle Collision,Side Collision,Total Loss,3,1,NO,2,56000,14000,0,42000,Chevrolet,Malibu,2003
+101,33,IL,500/1000,1000,1313.64,0,Parked Car,?,Trivial Damage,3,1,YES,1,4290,780,390,3120,Audi,A3,1997
+20,37,IL,250/500,500,1482.14,0,Multi-vehicle Collision,Rear Collision,Total Loss,15,3,?,2,60750,6750,6750,47250,Suburu,Forrestor,2003
+126,30,IL,250/500,2000,1171.75,0,Single Vehicle Collision,Side Collision,Minor Damage,23,1,?,2,48730,4430,4430,39870,Chevrolet,Malibu,2011
+264,43,IL,500/1000,2000,1353.33,0,Multi-vehicle Collision,Front Collision,Minor Damage,9,3,YES,2,95150,17300,17300,60550,Ford,Escape,2007
+78,24,IN,100/300,500,1175.51,0,Vehicle Theft,?,Minor Damage,20,1,?,0,7480,680,680,6120,Dodge,Neon,2003
+123,28,IL,100/300,2000,1836.02,0,Single Vehicle Collision,Side Collision,Major Damage,5,1,?,2,79800,13300,6650,59850,Volkswagen,Passat,2011
+347,51,OH,500/1000,500,1480.79,9000000,Single Vehicle Collision,Side Collision,Total Loss,15,1,YES,0,103560,8630,17260,77670,Jeep,Wrangler,1997
+163,38,IN,500/1000,2000,1453.92,0,Single Vehicle Collision,Side Collision,Minor Damage,13,1,YES,2,79500,15900,7950,55650,Accura,MDX,1995
+271,44,OH,250/500,500,1340.71,0,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,NO,2,76230,6930,13860,55440,Volkswagen,Passat,1997
+410,54,IL,100/300,2000,714.03,0,Single Vehicle Collision,Side Collision,Minor Damage,0,1,YES,0,59520,9920,9920,39680,Honda,Accord,2001
+448,57,IL,100/300,2000,1376.16,0,Multi-vehicle Collision,Front Collision,Major Damage,10,3,NO,2,47760,5970,5970,35820,Suburu,Impreza,2013
+218,41,IL,100/300,500,914.22,0,Multi-vehicle Collision,Side Collision,Total Loss,14,3,NO,2,84590,15380,7690,61520,Saab,93,2013
+43,38,OH,500/1000,1000,1601.47,0,Multi-vehicle Collision,Front Collision,Total Loss,1,3,YES,2,61650,6850,6850,47950,Nissan,Ultima,2006
+33,33,IL,500/1000,1000,1096.79,6000000,Single Vehicle Collision,Rear Collision,Major Damage,16,1,?,2,81400,8140,8140,65120,BMW,M5,1998
+126,34,IN,100/300,2000,1078.22,0,Multi-vehicle Collision,Side Collision,Major Damage,2,3,NO,0,58410,10620,5310,42480,Chevrolet,Tahoe,2007
+411,56,IL,250/500,1000,1595.28,0,Multi-vehicle Collision,Side Collision,Major Damage,23,3,?,0,38610,3510,3510,31590,Volkswagen,Passat,2007
+225,37,OH,100/300,1000,1217.84,5000000,Multi-vehicle Collision,Front Collision,Minor Damage,19,3,?,2,57600,9600,9600,38400,Volkswagen,Passat,2015
+35,35,IL,100/300,2000,1117.42,0,Multi-vehicle Collision,Side Collision,Minor Damage,23,3,NO,2,53190,5910,11820,35460,Volkswagen,Jetta,1996
+460,57,OH,100/300,2000,1567.37,0,Single Vehicle Collision,Front Collision,Major Damage,10,1,?,2,58300,5830,11660,40810,Nissan,Maxima,2014
+195,38,IL,500/1000,2000,1294.93,6000000,Multi-vehicle Collision,Front Collision,Minor Damage,12,3,YES,1,64620,7180,0,57440,Dodge,Neon,2003
+360,51,IL,250/500,1000,1152.12,0,Multi-vehicle Collision,Side Collision,Total Loss,15,3,NO,2,90480,15080,15080,60320,BMW,X6,2000
+300,49,IL,100/300,1000,1441.21,0,Vehicle Theft,?,Trivial Damage,3,1,NO,1,7080,1180,1180,4720,Nissan,Maxima,2001
+245,42,IL,500/1000,1000,1575.74,7000000,Parked Car,?,Minor Damage,19,1,?,2,6490,590,1180,4720,Toyota,Camry,2011
+146,36,OH,500/1000,2000,1233.96,0,Multi-vehicle Collision,Side Collision,Total Loss,16,3,NO,1,55900,5590,5590,44720,Nissan,Ultima,2015
+67,29,IL,250/500,1000,1861.43,0,Single Vehicle Collision,Rear Collision,Major Damage,16,1,NO,0,63800,6380,6380,51040,Saab,92x,1998
+380,56,OH,100/300,1000,1570.86,0,Single Vehicle Collision,Side Collision,Total Loss,10,1,?,0,58160,7270,7270,43620,Saab,95,1996
+389,53,IL,500/1000,2000,791.47,0,Vehicle Theft,?,Minor Damage,6,1,NO,1,6300,630,1260,4410,Mercedes,C300,2001
+317,46,IN,250/500,1000,1012.78,0,Single Vehicle Collision,Front Collision,Major Damage,18,1,NO,2,104610,19020,19020,66570,Mercedes,ML350,1999
+264,44,IL,100/300,500,1047.06,6000000,Multi-vehicle Collision,Rear Collision,Major Damage,20,3,NO,0,69850,12700,6350,50800,Ford,Fusion,1999
+20,21,OH,250/500,1000,1390.29,0,Single Vehicle Collision,Rear Collision,Minor Damage,14,1,NO,0,62900,12580,6290,44030,Accura,MDX,2006
+116,30,IN,500/1000,500,951.46,0,Multi-vehicle Collision,Front Collision,Major Damage,8,3,NO,0,59670,6630,6630,46410,Volkswagen,Passat,2004
+222,40,IL,100/300,1000,1226.78,0,Multi-vehicle Collision,Rear Collision,Minor Damage,17,2,YES,2,81500,16300,8150,57050,BMW,3 Series,2013
+439,56,OH,100/300,500,1280.9,0,Single Vehicle Collision,Rear Collision,Minor Damage,9,1,NO,2,50000,15000,5000,30000,Jeep,Wrangler,2009
+66,28,IN,100/300,2000,1472.77,0,Single Vehicle Collision,Front Collision,Total Loss,0,1,?,2,48290,8780,8780,30730,Nissan,Maxima,1995
+128,29,OH,500/1000,1000,1878.44,0,Single Vehicle Collision,Rear Collision,Total Loss,2,1,NO,0,59070,5370,5370,48330,Chevrolet,Malibu,2003
+69,24,IN,500/1000,500,1418.5,0,Multi-vehicle Collision,Rear Collision,Minor Damage,23,3,?,0,63300,12660,6330,44310,Dodge,RAM,2012
+294,46,IL,100/300,500,1532.8,0,Single Vehicle Collision,Side Collision,Total Loss,8,1,NO,0,65780,11960,11960,41860,Mercedes,ML350,2013
+19,29,OH,250/500,500,1304.35,0,Multi-vehicle Collision,Front Collision,Total Loss,6,3,NO,0,75400,11600,11600,52200,Dodge,Neon,2005
+191,33,OH,500/1000,2000,1551.61,0,Vehicle Theft,?,Minor Damage,3,1,YES,1,2250,250,250,1750,Toyota,Corolla,2005
+4,39,IL,100/300,1000,1326.98,6000000,Multi-vehicle Collision,Front Collision,Minor Damage,14,3,YES,1,54120,4510,9020,40590,Jeep,Grand Cherokee,2007
+298,49,OH,250/500,500,862.92,0,Multi-vehicle Collision,Side Collision,Major Damage,16,3,NO,0,69480,11580,11580,46320,Saab,95,2007
+231,43,IN,100/300,2000,1331.69,0,Single Vehicle Collision,Rear Collision,Minor Damage,12,1,?,1,66950,10300,10300,46350,Chevrolet,Malibu,2015
+338,47,OH,250/500,2000,1486.04,0,Multi-vehicle Collision,Rear Collision,Major Damage,1,3,NO,2,64100,12820,6410,44870,Dodge,RAM,2014
+261,46,IN,100/300,1000,870.55,0,Single Vehicle Collision,Rear Collision,Minor Damage,19,1,?,0,80280,13380,13380,53520,Chevrolet,Tahoe,2013
+321,44,IL,500/1000,2000,1344.56,6000000,Vehicle Theft,?,Trivial Damage,7,1,?,1,4680,520,0,4160,Accura,MDX,1999
+0,32,OH,500/1000,1000,1377.04,0,Multi-vehicle Collision,Rear Collision,Minor Damage,6,4,?,1,39720,6620,6620,26480,Accura,MDX,2002
+405,58,IL,250/500,500,1237.88,0,Single Vehicle Collision,Front Collision,Major Damage,11,1,?,0,63580,5780,5780,52020,Mercedes,ML350,1997
+304,49,IN,100/300,1000,1525.86,0,Single Vehicle Collision,Side Collision,Minor Damage,2,1,YES,1,73370,13340,6670,53360,Saab,95,2013
+1,29,OH,500/1000,500,854.58,0,Single Vehicle Collision,Side Collision,Minor Damage,15,1,?,2,86790,7890,23670,55230,Honda,CRV,2003
+26,39,IN,250/500,1000,770.76,0,Single Vehicle Collision,Side Collision,Major Damage,0,1,NO,0,49800,9960,4980,34860,Mercedes,ML350,2015
+202,38,IL,100/300,2000,1132.74,0,Single Vehicle Collision,Side Collision,Major Damage,12,1,YES,1,77440,7040,14080,56320,Nissan,Ultima,2005
+289,48,IL,500/1000,500,1173.37,8000000,Single Vehicle Collision,Front Collision,Total Loss,1,1,?,1,42900,8580,0,34320,Accura,TL,1999
+61,26,OH,100/300,2000,1188.28,6000000,Multi-vehicle Collision,Rear Collision,Major Damage,16,2,YES,1,53820,11960,5980,35880,Ford,F150,2015
+334,46,IL,100/300,1000,876.88,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,2,1,NO,2,57330,12740,6370,38220,Jeep,Grand Cherokee,1998
+12,24,IL,500/1000,1000,1143.95,0,Multi-vehicle Collision,Rear Collision,Minor Damage,13,3,NO,2,53370,5930,5930,41510,Nissan,Ultima,2011
+86,29,IL,100/300,2000,1409.06,0,Single Vehicle Collision,Front Collision,Minor Damage,0,1,NO,2,62920,9680,14520,38720,Accura,MDX,2005
+83,24,IN,500/1000,1000,1070.63,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,?,0,61600,6160,12320,43120,Honda,CRV,2003
+126,30,IL,500/1000,2000,916.13,0,Multi-vehicle Collision,Rear Collision,Total Loss,16,3,YES,2,74160,6180,12360,55620,Mercedes,E400,2002
+209,38,OH,250/500,500,1191.5,0,Single Vehicle Collision,Rear Collision,Total Loss,8,1,NO,2,80100,8900,8900,62300,Audi,A3,2015
+283,48,OH,500/1000,1000,1474.66,0,Parked Car,?,Trivial Damage,9,1,?,2,6560,820,820,4920,Volkswagen,Jetta,2003
+194,34,IL,250/500,1000,1193.45,0,Single Vehicle Collision,Rear Collision,Total Loss,11,1,?,2,58800,11760,5880,41160,Nissan,Pathfinder,1997
+184,38,IL,250/500,1000,1437.53,0,Multi-vehicle Collision,Side Collision,Minor Damage,6,3,?,0,53730,11940,5970,35820,Dodge,RAM,2013
+479,60,IL,100/300,2000,1304.83,0,Single Vehicle Collision,Rear Collision,Total Loss,18,1,NO,0,60600,5050,10100,45450,Honda,Civic,2001
+284,48,OH,250/500,1000,1168.8,0,Single Vehicle Collision,Side Collision,Total Loss,11,1,?,0,35750,6500,3250,26000,Mercedes,E400,2001
+65,27,IN,100/300,1000,1164.97,0,Single Vehicle Collision,Front Collision,Total Loss,17,1,?,1,42840,3570,7140,32130,Chevrolet,Silverado,2004
+222,39,IL,250/500,1000,1232.72,0,Multi-vehicle Collision,Front Collision,Major Damage,21,3,?,1,87960,14660,14660,58640,Jeep,Wrangler,1999
+196,41,IL,250/500,2000,1800.76,0,Multi-vehicle Collision,Rear Collision,Minor Damage,0,3,NO,1,47800,4780,4780,38240,Jeep,Grand Cherokee,2009
+253,43,IL,500/1000,500,1187.01,7000000,Vehicle Theft,?,Trivial Damage,9,1,NO,0,3840,640,640,2560,Chevrolet,Tahoe,2014
+280,43,IN,100/300,1000,1559.34,0,Single Vehicle Collision,Front Collision,Total Loss,1,1,NO,0,77000,14000,7000,56000,Accura,RSX,2004
+5,26,IL,250/500,2000,1137.02,0,Single Vehicle Collision,Rear Collision,Total Loss,22,1,YES,1,88110,16020,16020,56070,Audi,A5,2003
+220,42,IN,100/300,1000,1281.72,0,Multi-vehicle Collision,Rear Collision,Minor Damage,20,4,NO,0,47740,4340,4340,39060,Honda,Civic,2005
+85,30,OH,100/300,1000,796.35,0,Multi-vehicle Collision,Rear Collision,Total Loss,9,3,YES,2,58960,5360,10720,42880,Ford,F150,2004
+266,46,OH,250/500,500,1270.02,0,Parked Car,?,Minor Damage,5,1,NO,1,2160,480,240,1440,Toyota,Corolla,2004
+41,26,IL,100/300,1000,1383.13,0,Vehicle Theft,?,Trivial Damage,12,1,YES,1,6890,530,1060,5300,Jeep,Grand Cherokee,1997
+316,45,IL,100/300,2000,1290.74,5000000,Multi-vehicle Collision,Side Collision,Major Damage,6,3,NO,2,78870,7170,14340,57360,Suburu,Legacy,2013
+285,47,IN,100/300,1000,1216.68,0,Vehicle Theft,?,Trivial Damage,8,1,NO,1,2700,300,300,2100,Ford,F150,2013
+379,54,IL,100/300,500,1251.16,0,Single Vehicle Collision,Front Collision,Total Loss,14,1,?,0,75960,6330,6330,63300,Jeep,Grand Cherokee,2010
+15,34,IN,250/500,2000,1586.41,0,Single Vehicle Collision,Front Collision,Major Damage,10,1,YES,1,75570,6870,13740,54960,BMW,X5,2010
+354,48,IL,500/1000,2000,1526.11,5000000,Single Vehicle Collision,Front Collision,Minor Damage,12,1,?,2,90240,15040,15040,60160,Chevrolet,Malibu,1995
+342,53,IN,100/300,1000,1028.44,0,Single Vehicle Collision,Front Collision,Major Damage,12,1,?,0,80960,14720,7360,58880,Accura,MDX,2000
+169,38,IL,100/300,1000,1555.94,0,Multi-vehicle Collision,Front Collision,Total Loss,12,3,NO,1,79080,6590,13180,59310,Mercedes,C300,2012
+339,49,IN,500/1000,2000,1570.77,0,Vehicle Theft,?,Minor Damage,13,1,NO,0,6820,1240,620,4960,Mercedes,ML350,2009
+259,42,OH,100/300,2000,1170.53,0,Multi-vehicle Collision,Rear Collision,Total Loss,17,3,NO,1,62590,5690,11380,45520,Nissan,Pathfinder,2006
+65,23,OH,250/500,1000,1099.95,0,Single Vehicle Collision,Side Collision,Major Damage,14,1,NO,1,52400,6550,6550,39300,Accura,MDX,2005
+254,46,IL,250/500,2000,1472.43,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,?,1,63580,5780,11560,46240,Volkswagen,Jetta,2004
+440,55,IL,250/500,500,1275.62,0,Multi-vehicle Collision,Side Collision,Minor Damage,18,3,YES,2,61400,6140,6140,49120,Nissan,Ultima,1995
+478,63,IL,250/500,1000,1292.3,0,Parked Car,?,Minor Damage,5,1,YES,1,4700,940,470,3290,Dodge,Neon,2007
+230,44,IN,250/500,2000,1009.37,0,Single Vehicle Collision,Front Collision,Total Loss,19,1,NO,0,74140,13480,13480,47180,BMW,X5,2015
+138,30,OH,500/1000,500,1093.07,4000000,Single Vehicle Collision,Front Collision,Major Damage,0,1,?,2,83160,6930,13860,62370,Volkswagen,Jetta,2011
+239,41,OH,250/500,1000,1325.44,7000000,Parked Car,?,Trivial Damage,22,1,?,0,10790,1660,830,8300,Mercedes,E400,2013
+93,31,IL,100/300,2000,1017.18,0,Multi-vehicle Collision,Rear Collision,Major Damage,21,3,YES,1,48070,8740,8740,30590,Saab,92x,2014
+37,25,OH,100/300,1000,1221.17,0,Multi-vehicle Collision,Rear Collision,Minor Damage,4,3,YES,0,51030,5670,11340,34020,Suburu,Impreza,1996
+254,40,IN,100/300,500,1927.87,0,Single Vehicle Collision,Front Collision,Minor Damage,10,1,YES,0,43280,0,5410,37870,Honda,Civic,1996
+131,29,IN,250/500,1000,978.27,0,Single Vehicle Collision,Front Collision,Major Damage,5,1,?,1,76400,15280,7640,53480,Suburu,Forrestor,2003
+230,43,IN,100/300,2000,1221.14,0,Single Vehicle Collision,Side Collision,Total Loss,13,1,?,0,75460,13720,13720,48020,Audi,A5,2002
+313,50,OH,100/300,2000,1255.62,0,Multi-vehicle Collision,Side Collision,Major Damage,18,3,YES,2,69000,13800,6900,48300,Ford,F150,1995
+210,38,IN,250/500,500,999.52,0,Vehicle Theft,?,Minor Damage,6,1,?,1,8640,1440,720,6480,Accura,TL,2008
+101,29,OH,250/500,500,1380.89,0,Multi-vehicle Collision,Rear Collision,Minor Damage,0,3,?,2,67210,12220,12220,42770,BMW,X6,1996
+153,37,IN,500/1000,500,1010.77,0,Multi-vehicle Collision,Side Collision,Total Loss,5,3,?,0,42500,4250,4250,34000,Volkswagen,Jetta,1999
+337,53,OH,100/300,500,1205.86,0,Single Vehicle Collision,Rear Collision,Minor Damage,8,1,YES,0,86400,14400,7200,64800,Accura,RSX,2001
+360,51,IL,500/1000,1000,1526.61,0,Vehicle Theft,?,Minor Damage,5,1,YES,2,4620,840,840,2940,Dodge,RAM,2009
+428,53,IL,100/300,1000,1496.44,0,Parked Car,?,Trivial Damage,9,1,YES,2,6930,630,1260,5040,Honda,CRV,2013
+204,40,IL,100/300,500,1256.2,0,Multi-vehicle Collision,Side Collision,Minor Damage,10,3,YES,1,41700,8340,8340,25020,Saab,95,2013
+364,51,IL,100/300,500,1268.35,0,Single Vehicle Collision,Rear Collision,Major Damage,16,1,YES,2,77330,14060,14060,49210,Volkswagen,Jetta,2014
+185,35,IN,500/1000,2000,1421.59,0,Vehicle Theft,?,Trivial Damage,8,1,?,2,4950,900,450,3600,Ford,F150,2011
+63,26,IL,500/1000,500,1500.04,6000000,Vehicle Theft,?,Minor Damage,5,1,NO,0,5160,860,860,3440,Accura,TL,2004
+210,35,IL,100/300,500,1433.24,0,Multi-vehicle Collision,Side Collision,Total Loss,11,3,NO,2,24570,2730,2730,19110,Saab,95,2006
+194,38,IN,100/300,2000,1231.25,0,Multi-vehicle Collision,Rear Collision,Minor Damage,15,3,?,1,53680,4880,9760,39040,Toyota,Camry,2011
+294,49,IN,500/1000,500,1135.43,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,YES,1,42900,3900,3900,35100,Chevrolet,Malibu,2010
+272,41,OH,250/500,2000,945.73,5000000,Single Vehicle Collision,Front Collision,Minor Damage,23,1,NO,0,84100,16820,8410,58870,Ford,Escape,2009
+27,27,IN,100/300,2000,1118.76,0,Single Vehicle Collision,Front Collision,Total Loss,23,1,?,1,61560,6840,6840,47880,Ford,Fusion,2008
+251,39,IN,500/1000,2000,1231.98,0,Single Vehicle Collision,Rear Collision,Minor Damage,10,1,YES,0,44240,5530,5530,33180,Dodge,RAM,1997
+180,33,IN,500/1000,2000,1005.47,0,Multi-vehicle Collision,Rear Collision,Minor Damage,12,4,?,2,57700,11540,5770,40390,Jeep,Grand Cherokee,2002
+392,50,OH,100/300,2000,1108.97,0,Single Vehicle Collision,Side Collision,Minor Damage,4,1,NO,2,108030,16620,16620,74790,Saab,92x,2002
+143,30,IN,100/300,500,1392.39,5000000,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,NO,2,54300,10860,5430,38010,Toyota,Highlander,2010
+371,54,IN,100/300,2000,1317.97,0,Multi-vehicle Collision,Front Collision,Major Damage,18,3,?,1,32280,5380,5380,21520,Ford,Fusion,2010
+292,42,IN,250/500,1000,1588.22,0,Multi-vehicle Collision,Rear Collision,Total Loss,15,3,YES,1,84600,16920,8460,59220,Chevrolet,Malibu,2007
+165,35,IL,250/500,500,900.02,6000000,Single Vehicle Collision,Front Collision,Total Loss,8,1,NO,1,69700,6970,6970,55760,BMW,3 Series,2008
+158,33,OH,100/300,1000,1744.64,3000000,Multi-vehicle Collision,Rear Collision,Total Loss,4,3,NO,0,36400,3640,7280,25480,Volkswagen,Jetta,1998
+241,39,OH,250/500,1000,1260.56,0,Multi-vehicle Collision,Side Collision,Minor Damage,20,3,NO,0,37520,4690,4690,28140,Jeep,Wrangler,2010
+103,33,OH,500/1000,2000,1021.14,0,Multi-vehicle Collision,Side Collision,Major Damage,1,3,NO,2,79090,14380,14380,50330,Dodge,RAM,2014
+402,54,OH,250/500,2000,1285.09,0,Single Vehicle Collision,Rear Collision,Major Damage,19,1,NO,0,67770,7530,15060,45180,Mercedes,ML350,2013
+102,32,OH,100/300,500,1537.07,3000000,Single Vehicle Collision,Side Collision,Total Loss,11,1,NO,1,47400,9480,4740,33180,Chevrolet,Silverado,2004
+182,40,IN,100/300,1000,1022.42,0,Single Vehicle Collision,Front Collision,Total Loss,13,1,YES,0,71100,7110,14220,49770,Audi,A3,2008
+282,46,OH,100/300,2000,1558.86,0,Single Vehicle Collision,Front Collision,Minor Damage,2,1,?,2,69400,13880,6940,48580,BMW,M5,2012
+222,39,OH,500/1000,500,1757.87,0,Multi-vehicle Collision,Rear Collision,Major Damage,9,3,YES,2,55000,5000,10000,40000,Saab,93,1996
+415,52,IN,250/500,1000,973.5,0,Multi-vehicle Collision,Rear Collision,Total Loss,15,2,YES,1,51090,7860,7860,35370,Toyota,Highlander,2003
+51,34,OH,500/1000,500,1430.8,0,Single Vehicle Collision,Side Collision,Major Damage,23,1,?,2,64200,6420,19260,38520,Honda,Civic,2007
+255,45,IL,500/1000,500,1192.27,0,Single Vehicle Collision,Front Collision,Total Loss,16,1,NO,2,67320,12240,12240,42840,Ford,Fusion,2006
+143,31,IL,250/500,500,1163.83,0,Multi-vehicle Collision,Side Collision,Major Damage,21,4,YES,2,76120,6920,13840,55360,Audi,A5,1999
+130,28,OH,500/1000,1000,1003.15,0,Multi-vehicle Collision,Front Collision,Minor Damage,21,2,YES,2,85020,13080,13080,58860,Ford,Fusion,2010
+242,41,OH,250/500,2000,1153.54,6000000,Multi-vehicle Collision,Rear Collision,Minor Damage,3,3,NO,0,68090,12380,12380,43330,Toyota,Corolla,2009
+96,27,IL,100/300,1000,1631.1,0,Parked Car,?,Trivial Damage,4,1,?,1,6030,670,670,4690,Nissan,Pathfinder,2007
+180,35,IL,500/1000,1000,1252.48,0,Vehicle Theft,?,Minor Damage,17,1,?,1,5100,1020,510,3570,Chevrolet,Malibu,2000
+150,30,IN,100/300,1000,1677.26,0,Vehicle Theft,?,Trivial Damage,7,1,YES,1,4590,510,510,3570,Volkswagen,Jetta,2013
+463,59,IL,250/500,1000,979.73,0,Multi-vehicle Collision,Front Collision,Major Damage,14,2,?,1,72400,7240,14480,50680,Chevrolet,Tahoe,1999
+472,64,IN,250/500,500,989.24,0,Single Vehicle Collision,Front Collision,Major Damage,13,1,NO,2,70900,14180,7090,49630,Mercedes,ML350,2002
+75,25,IL,500/1000,1000,1389.86,0,Multi-vehicle Collision,Side Collision,Total Loss,23,2,?,2,65100,6510,6510,52080,Saab,93,2011
+193,40,OH,100/300,500,1233.85,0,Multi-vehicle Collision,Side Collision,Total Loss,23,3,?,2,64260,0,14280,49980,Ford,Escape,1999
+43,43,IL,500/1000,500,1320.39,0,Single Vehicle Collision,Rear Collision,Major Damage,16,1,?,2,79970,7270,21810,50890,Honda,CRV,1996
+253,41,IN,100/300,1000,1435.09,0,Single Vehicle Collision,Rear Collision,Total Loss,17,1,NO,2,56610,6290,6290,44030,Chevrolet,Tahoe,1995
+152,30,IN,500/1000,500,1448.54,0,Single Vehicle Collision,Side Collision,Major Damage,9,1,YES,1,84590,7690,7690,69210,Toyota,Highlander,2000
+160,38,OH,250/500,500,1733.56,0,Multi-vehicle Collision,Side Collision,Major Damage,13,3,NO,2,66780,7420,14840,44520,Mercedes,ML350,1996
+56,36,IN,100/300,500,1533.07,0,Single Vehicle Collision,Rear Collision,Major Damage,13,1,YES,1,58500,0,6500,52000,Ford,Escape,2001
+286,41,IL,100/300,500,1106.77,0,Parked Car,?,Trivial Damage,3,1,?,2,5000,500,500,4000,Dodge,RAM,2003
+3,29,IL,100/300,500,995.7,5000000,Parked Car,?,Trivial Damage,3,1,?,2,5000,500,1000,3500,Mercedes,E400,2008
+286,41,IL,250/500,1000,1298.85,6000000,Multi-vehicle Collision,Front Collision,Major Damage,16,3,?,1,54450,6050,12100,36300,Saab,92x,2007
+239,38,OH,250/500,1000,1276.73,5000000,Multi-vehicle Collision,Front Collision,Major Damage,12,3,NO,1,61920,6880,6880,48160,Saab,93,2003
+64,29,OH,250/500,2000,1202.28,0,Single Vehicle Collision,Side Collision,Minor Damage,4,1,?,1,43700,4370,4370,34960,Nissan,Pathfinder,2007
+98,31,IN,100/300,500,671.92,0,Single Vehicle Collision,Front Collision,Minor Damage,3,1,?,2,64080,7120,7120,49840,Ford,Escape,1997
+16,35,IL,250/500,1000,1358.03,0,Single Vehicle Collision,Rear Collision,Total Loss,0,1,NO,2,55000,10000,10000,35000,Volkswagen,Jetta,2008
+70,27,IN,250/500,1000,1008.79,4000000,Vehicle Theft,?,Trivial Damage,19,1,NO,2,4400,0,550,3850,Toyota,Camry,2000
+75,27,OH,100/300,1000,1141.1,0,Multi-vehicle Collision,Side Collision,Minor Damage,15,2,?,0,71640,5970,11940,53730,Toyota,Highlander,2008
+246,44,OH,100/300,1000,1397,0,Single Vehicle Collision,Rear Collision,Minor Damage,6,1,NO,1,61740,6860,6860,48020,Accura,MDX,1997
+110,27,OH,500/1000,1000,1664.66,0,Single Vehicle Collision,Side Collision,Total Loss,3,1,?,0,57500,5750,5750,46000,Audi,A3,2010
+236,39,IN,250/500,1000,1151.39,4000000,Parked Car,?,Minor Damage,17,1,YES,0,8700,870,1740,6090,Accura,RSX,2003
+267,46,OH,100/300,2000,1546.01,0,Multi-vehicle Collision,Front Collision,Total Loss,4,4,NO,2,77100,15420,7710,53970,Volkswagen,Jetta,1996
+463,57,IL,250/500,500,1063.67,0,Single Vehicle Collision,Front Collision,Minor Damage,14,1,NO,2,59400,6600,6600,46200,Dodge,Neon,1995
+303,46,IN,100/300,1000,709.14,0,Multi-vehicle Collision,Rear Collision,Minor Damage,3,3,NO,1,54890,9980,4990,39920,Toyota,Corolla,2006
+137,30,IL,250/500,500,1039.55,0,Multi-vehicle Collision,Front Collision,Minor Damage,4,3,?,2,74030,6730,13460,53840,Chevrolet,Tahoe,2005
+56,42,IL,250/500,500,1339.39,0,Single Vehicle Collision,Rear Collision,Total Loss,13,1,?,1,61490,11180,11180,39130,BMW,X5,1998
+75,27,IN,250/500,1000,1202.75,0,Multi-vehicle Collision,Front Collision,Minor Damage,23,3,NO,0,79560,6630,13260,59670,Volkswagen,Passat,2003
+131,33,IL,100/300,2000,1081.17,0,Parked Car,?,Minor Damage,3,1,?,0,4900,490,490,3920,Toyota,Camry,2010
+153,34,IL,250/500,500,991.39,0,Multi-vehicle Collision,Side Collision,Total Loss,0,3,?,1,77770,14140,14140,49490,Nissan,Pathfinder,2000
+255,43,IN,500/1000,500,984.02,0,Multi-vehicle Collision,Side Collision,Major Damage,14,2,?,2,74700,7470,14940,52290,Nissan,Maxima,2007
+103,26,IL,100/300,500,1354.83,0,Multi-vehicle Collision,Front Collision,Minor Damage,14,2,NO,2,40600,4060,4060,32480,Volkswagen,Passat,2010
+97,28,OH,100/300,1000,830.31,0,Single Vehicle Collision,Rear Collision,Total Loss,22,1,?,1,45270,10060,10060,25150,Jeep,Wrangler,2006
+214,36,IL,100/300,2000,987.42,7000000,Multi-vehicle Collision,Front Collision,Minor Damage,17,3,NO,0,47080,4280,8560,34240,Saab,93,2006
+438,57,OH,500/1000,500,1119.29,0,Single Vehicle Collision,Side Collision,Minor Damage,14,1,?,0,40700,4070,4070,32560,Volkswagen,Passat,2000
+87,27,OH,100/300,500,1048.39,0,Single Vehicle Collision,Side Collision,Minor Damage,2,1,?,2,34650,6300,3150,25200,Ford,F150,1996
+27,28,OH,500/1000,1000,1074.47,0,Parked Car,?,Trivial Damage,4,1,?,2,3200,400,400,2400,Jeep,Grand Cherokee,2012
+206,42,IL,500/1000,1000,1230.76,0,Single Vehicle Collision,Rear Collision,Major Damage,2,1,?,1,78980,7180,14360,57440,Saab,92x,1997
+127,31,OH,500/1000,500,1255.02,0,Parked Car,?,Minor Damage,10,1,YES,1,6160,560,1120,4480,Nissan,Ultima,1996
+422,60,IN,100/300,1000,1555.52,0,Single Vehicle Collision,Front Collision,Major Damage,11,1,YES,1,85250,15500,7750,62000,Mercedes,E400,1999
+303,50,IL,100/300,2000,836.11,5000000,Multi-vehicle Collision,Side Collision,Major Damage,1,4,YES,1,72840,12140,6070,54630,Dodge,Neon,2010
+228,40,IN,100/300,500,1450.98,0,Parked Car,?,Trivial Damage,20,1,?,0,6050,1100,1100,3850,Toyota,Camry,2010
+239,39,IN,250/500,2000,625.08,0,Single Vehicle Collision,Front Collision,Major Damage,10,1,NO,2,87890,15980,7990,63920,BMW,X6,2014
+330,47,IL,100/300,2000,1133.27,0,Multi-vehicle Collision,Side Collision,Total Loss,20,2,?,0,60500,11000,5500,44000,Ford,F150,1999
+128,35,IN,500/1000,500,1366.6,0,Multi-vehicle Collision,Front Collision,Minor Damage,10,3,?,2,88220,16040,16040,56140,Chevrolet,Malibu,2008
+147,37,OH,500/1000,1000,1439.9,6000000,Multi-vehicle Collision,Rear Collision,Total Loss,2,2,NO,1,53680,9760,4880,39040,Accura,MDX,2004
+287,45,OH,500/1000,1000,1230.69,0,Single Vehicle Collision,Front Collision,Minor Damage,19,1,NO,0,53800,5380,5380,43040,Accura,MDX,2006
+142,29,OH,100/300,2000,1307.68,0,Single Vehicle Collision,Rear Collision,Major Damage,10,1,YES,1,54360,4530,9060,40770,Mercedes,E400,1995
+162,35,IL,500/1000,2000,1124.69,0,Single Vehicle Collision,Side Collision,Major Damage,14,1,YES,0,54340,9880,4940,39520,Toyota,Camry,2001
+140,35,OH,100/300,1000,1520.78,0,Parked Car,?,Trivial Damage,5,1,?,0,2860,520,260,2080,Chevrolet,Tahoe,1997
+106,28,OH,100/300,2000,1609.11,0,Vehicle Theft,?,Minor Damage,8,1,YES,2,5490,0,1220,4270,Saab,95,1999
+292,45,IL,500/1000,1000,1358.91,0,Vehicle Theft,?,Trivial Damage,4,1,NO,0,7370,670,1340,5360,Suburu,Impreza,1997
+34,34,OH,500/1000,500,1295.87,0,Multi-vehicle Collision,Side Collision,Major Damage,4,3,?,1,50800,5080,5080,40640,Audi,A3,1997
+290,48,IL,250/500,500,1161.03,5000000,Multi-vehicle Collision,Side Collision,Minor Damage,20,2,?,1,41520,5190,5190,31140,Nissan,Ultima,2014
+182,38,OH,500/1000,2000,1441.06,0,Single Vehicle Collision,Side Collision,Total Loss,18,1,?,2,89650,8150,16300,65200,Dodge,RAM,2005
+362,55,OH,100/300,1000,1097.99,0,Multi-vehicle Collision,Rear Collision,Total Loss,0,3,NO,0,39690,0,0,39690,Suburu,Legacy,1998
+143,32,IL,500/1000,1000,1464.42,0,Single Vehicle Collision,Rear Collision,Major Damage,1,1,?,2,62260,5660,5660,50940,Saab,92x,1995
+183,38,IL,250/500,500,1543.68,0,Single Vehicle Collision,Side Collision,Major Damage,17,1,NO,0,51920,9440,4720,37760,Audi,A3,2001
+254,40,IL,250/500,500,1390.89,5000000,Single Vehicle Collision,Front Collision,Minor Damage,23,1,?,2,53460,9720,4860,38880,Volkswagen,Jetta,2009
+249,43,OH,100/300,2000,1148.58,0,Multi-vehicle Collision,Rear Collision,Total Loss,4,3,YES,2,57100,5710,5710,45680,Honda,CRV,2014
+169,36,IN,250/500,500,1616.26,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,NO,2,77440,14080,7040,56320,Dodge,Neon,2004
+235,40,IL,500/1000,500,1398.94,0,Single Vehicle Collision,Side Collision,Minor Damage,11,1,NO,1,68300,6830,13660,47810,Suburu,Forrestor,2003
+112,32,OH,500/1000,1000,1238.92,0,Parked Car,?,Trivial Damage,4,1,?,0,5060,460,920,3680,Honda,CRV,2012
+16,32,IL,100/300,1000,968.46,0,Multi-vehicle Collision,Side Collision,Total Loss,0,3,?,0,59400,6600,13200,39600,Dodge,RAM,1995
+128,31,IL,100/300,500,1045.12,0,Multi-vehicle Collision,Side Collision,Major Damage,2,3,NO,0,69930,0,15540,54390,Ford,Escape,2013
+103,27,IN,100/300,1000,1537.33,0,Multi-vehicle Collision,Front Collision,Minor Damage,11,3,YES,1,77700,7770,15540,54390,Jeep,Wrangler,2008
+356,54,OH,500/1000,500,912.3,0,Multi-vehicle Collision,Front Collision,Major Damage,23,3,NO,2,68750,12500,12500,43750,Audi,A5,2007
+109,29,OH,100/300,2000,1007.28,6000000,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,NO,1,91080,16560,16560,57960,Jeep,Wrangler,1995
+2,20,IN,500/1000,1000,1189.98,4000000,Single Vehicle Collision,Side Collision,Minor Damage,22,1,NO,1,48360,4030,8060,36270,Audi,A5,2000
+198,34,OH,250/500,1000,1576.41,0,Single Vehicle Collision,Side Collision,Major Damage,18,1,YES,1,95000,9500,9500,76000,Ford,F150,2001
+107,32,OH,100/300,500,1172.82,4000000,Vehicle Theft,?,Trivial Damage,8,1,?,1,3900,780,390,2730,Ford,F150,2010
+252,39,IL,500/1000,500,1312.22,9000000,Multi-vehicle Collision,Front Collision,Minor Damage,15,3,?,0,59400,11880,5940,41580,Jeep,Grand Cherokee,2010
+303,43,OH,500/1000,1000,671.01,7000000,Single Vehicle Collision,Rear Collision,Minor Damage,20,1,?,2,60210,6690,6690,46830,Nissan,Maxima,2013
+101,32,IL,250/500,500,895.14,0,Single Vehicle Collision,Front Collision,Minor Damage,4,1,?,0,43600,8720,4360,30520,Suburu,Legacy,2010
+446,57,IN,100/300,2000,1373.21,0,Multi-vehicle Collision,Front Collision,Total Loss,10,3,NO,0,62800,6280,12560,43960,Jeep,Wrangler,2012
+330,48,OH,250/500,1000,1625.65,0,Single Vehicle Collision,Side Collision,Major Damage,10,1,YES,1,59500,11900,5950,41650,Dodge,Neon,2006
+211,37,OH,250/500,2000,1295.63,4000000,Multi-vehicle Collision,Front Collision,Total Loss,22,3,YES,1,53460,5940,5940,41580,Honda,CRV,2009
+172,33,IL,100/300,1000,1459.96,6000000,Multi-vehicle Collision,Side Collision,Total Loss,15,3,NO,0,41690,7580,7580,26530,Saab,95,1999
+316,46,OH,100/300,500,1219.94,7000000,Single Vehicle Collision,Side Collision,Minor Damage,13,1,?,0,63100,6310,12620,44170,Accura,TL,2000
+435,60,OH,500/1000,500,1064.49,5000000,Single Vehicle Collision,Front Collision,Total Loss,23,1,NO,2,62880,5240,10480,47160,Mercedes,E400,2007
+344,51,IL,100/300,1000,959.83,0,Multi-vehicle Collision,Side Collision,Major Damage,18,3,?,2,75400,17400,11600,46400,BMW,X6,2006
+204,40,OH,250/500,2000,1767.02,0,Single Vehicle Collision,Rear Collision,Total Loss,7,1,YES,1,46200,4200,8400,33600,Audi,A5,1997
+278,47,IN,500/1000,500,1285.01,0,Single Vehicle Collision,Rear Collision,Major Damage,21,1,NO,2,58500,5850,5850,46800,Toyota,Camry,2010
+434,57,OH,500/1000,2000,1422.95,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,NO,1,66240,11040,11040,44160,Nissan,Maxima,2003
+209,36,IN,100/300,2000,1223.39,0,Multi-vehicle Collision,Rear Collision,Total Loss,17,3,?,1,65440,8180,8180,49080,Jeep,Wrangler,2014
+250,43,IL,500/1000,2000,1539.06,0,Single Vehicle Collision,Front Collision,Minor Damage,2,1,NO,0,64200,10700,10700,42800,Ford,F150,2002
+61,25,IN,100/300,2000,988.06,0,Multi-vehicle Collision,Rear Collision,Minor Damage,1,3,YES,1,32320,4040,4040,24240,Dodge,RAM,2000
+80,28,IL,500/1000,1000,1740.57,0,Single Vehicle Collision,Rear Collision,Major Damage,3,1,?,0,33480,3720,3720,26040,Dodge,Neon,2011
+25,38,OH,250/500,1000,1540.91,7000000,Vehicle Theft,?,Trivial Damage,0,1,NO,1,4320,480,960,2880,Toyota,Corolla,1995
+4,29,IL,250/500,500,1381.88,5000000,Vehicle Theft,?,Trivial Damage,4,1,NO,0,4200,840,420,2940,Jeep,Wrangler,2008
+32,29,OH,100/300,500,1446.98,0,Multi-vehicle Collision,Front Collision,Minor Damage,11,3,YES,2,57970,10540,5270,42160,Saab,93,2006
+125,31,IN,500/1000,500,1220.86,0,Parked Car,?,Trivial Damage,4,1,YES,1,4320,0,960,3360,Saab,93,2003
+276,45,IL,500/1000,500,948.1,0,Multi-vehicle Collision,Front Collision,Minor Damage,11,3,?,0,69300,13860,6930,48510,Ford,Escape,2010
+148,30,OH,100/300,500,1471.24,0,Multi-vehicle Collision,Side Collision,Minor Damage,4,3,NO,2,32480,4060,4060,24360,Dodge,Neon,1997
+222,38,IN,100/300,2000,1157.97,0,Single Vehicle Collision,Front Collision,Total Loss,20,1,?,2,60480,6720,6720,47040,Accura,TL,2001
+32,38,IL,250/500,2000,566.11,5000000,Parked Car,?,Trivial Damage,22,1,YES,0,2640,440,440,1760,Honda,CRV,2015
+78,27,OH,500/1000,500,1060.88,0,Parked Car,?,Trivial Damage,4,1,NO,0,6050,550,1100,4400,Volkswagen,Passat,2009
+238,43,OH,250/500,1000,1524.45,4000000,Multi-vehicle Collision,Rear Collision,Total Loss,21,4,NO,0,42700,4270,4270,34160,Saab,92x,1995
+313,47,IN,250/500,1000,1556.17,0,Single Vehicle Collision,Front Collision,Major Damage,20,1,YES,1,40260,3660,7320,29280,Accura,MDX,1996
+334,50,OH,500/1000,500,1216.24,0,Single Vehicle Collision,Rear Collision,Major Damage,7,1,NO,2,50000,5000,10000,35000,Chevrolet,Silverado,2008
+190,35,IN,250/500,500,1484.72,5000000,Parked Car,?,Trivial Damage,4,1,NO,0,3840,640,320,2880,Saab,92x,1998
+194,41,IL,250/500,500,1203.81,0,Multi-vehicle Collision,Rear Collision,Minor Damage,17,3,?,0,95900,13700,20550,61650,Saab,95,1999
+290,47,IN,250/500,1000,1393.34,0,Multi-vehicle Collision,Side Collision,Minor Damage,20,3,YES,1,56160,6240,12480,37440,Audi,A5,2002
+26,42,OH,100/300,1000,1484.48,0,Single Vehicle Collision,Side Collision,Major Damage,10,1,NO,2,63030,5730,11460,45840,Saab,92x,1996
+254,41,IL,250/500,500,1581.27,5000000,Single Vehicle Collision,Front Collision,Minor Damage,8,1,YES,2,63470,5770,11540,46160,BMW,X6,1999
+199,38,IL,250/500,1000,1281.25,0,Single Vehicle Collision,Front Collision,Major Damage,6,1,?,0,44440,8080,4040,32320,BMW,X6,2007
+137,35,IN,250/500,500,1667.83,0,Parked Car,?,Minor Damage,4,1,YES,1,6600,1200,1200,4200,Jeep,Grand Cherokee,2005
+134,36,OH,250/500,1000,1497.41,0,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,NO,2,77200,9650,9650,57900,Ford,Escape,1996
+73,30,OH,100/300,500,803.36,0,Multi-vehicle Collision,Rear Collision,Total Loss,15,3,?,0,57000,0,11400,45600,Audi,A3,2013
+289,45,OH,250/500,2000,1221.41,0,Vehicle Theft,?,Trivial Damage,9,1,NO,2,2700,300,300,2100,Honda,Accord,2006
+176,36,OH,250/500,500,1865.83,5000000,Single Vehicle Collision,Rear Collision,Total Loss,17,1,?,2,47300,4300,8600,34400,Volkswagen,Jetta,2006
+145,37,OH,250/500,2000,1434.27,0,Single Vehicle Collision,Rear Collision,Major Damage,13,1,?,2,55110,5010,10020,40080,Nissan,Maxima,2002
+164,31,IN,500/1000,500,1114.68,0,Vehicle Theft,?,Trivial Damage,5,1,YES,1,4320,480,480,3360,Mercedes,E400,2002
+186,38,OH,250/500,2000,1218.56,0,Multi-vehicle Collision,Front Collision,Total Loss,23,3,YES,2,68760,11460,5730,51570,Saab,95,1998
+85,31,IL,250/500,2000,1234.69,9000000,Multi-vehicle Collision,Front Collision,Major Damage,1,2,NO,2,74400,14880,7440,52080,BMW,M5,2003
+162,33,OH,250/500,500,964.92,0,Multi-vehicle Collision,Rear Collision,Major Damage,17,4,NO,2,35300,3530,3530,28240,Mercedes,E400,1996
+396,57,IL,500/1000,500,1351.72,0,Parked Car,?,Minor Damage,3,1,YES,1,2640,480,480,1680,Volkswagen,Passat,2000
+270,41,IL,250/500,1000,817.28,0,Multi-vehicle Collision,Rear Collision,Total Loss,17,3,?,1,60190,4630,9260,46300,Mercedes,ML350,2014
+168,39,IL,500/1000,1000,1389.59,0,Multi-vehicle Collision,Rear Collision,Major Damage,23,3,YES,1,41580,3780,7560,30240,Chevrolet,Malibu,2015
+274,45,IN,250/500,1000,1353.53,0,Single Vehicle Collision,Side Collision,Minor Damage,13,1,YES,0,58500,11700,0,46800,Accura,MDX,1995
+263,43,IN,500/1000,1000,1294.04,0,Single Vehicle Collision,Rear Collision,Minor Damage,17,1,YES,2,79320,13220,6610,59490,Nissan,Ultima,1997
+152,33,OH,100/300,1000,840.81,0,Single Vehicle Collision,Rear Collision,Minor Damage,2,1,YES,0,82610,7510,7510,67590,Ford,Escape,2002
+46,41,OH,100/300,2000,998.19,0,Multi-vehicle Collision,Rear Collision,Total Loss,23,3,NO,1,78600,13100,19650,45850,Dodge,RAM,2004
+276,46,OH,100/300,2000,1090.32,0,Single Vehicle Collision,Front Collision,Minor Damage,17,1,NO,1,51390,5710,5710,39970,Volkswagen,Jetta,2007
+234,44,IN,500/1000,500,1780.67,0,Single Vehicle Collision,Side Collision,Major Damage,3,1,NO,1,70200,7020,7020,56160,Ford,F150,2012
+64,30,IL,250/500,2000,1681.01,0,Parked Car,?,Minor Damage,16,1,NO,2,4900,490,1470,2940,Jeep,Wrangler,2015
+456,62,OH,250/500,1000,1395.77,0,Multi-vehicle Collision,Side Collision,Major Damage,13,3,?,1,66480,5540,11080,49860,Saab,92x,2012
+58,23,OH,500/1000,2000,1471.44,5000000,Single Vehicle Collision,Rear Collision,Major Damage,8,1,NO,2,50380,4580,9160,36640,Chevrolet,Tahoe,2007
+475,61,IL,500/1000,500,1265.72,0,Single Vehicle Collision,Front Collision,Major Damage,23,1,YES,0,64350,9900,9900,44550,Mercedes,E400,1998
+96,29,IN,250/500,1000,1274.7,5000000,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,YES,2,55400,5540,11080,38780,Chevrolet,Silverado,2004
+99,28,OH,100/300,500,1330.39,0,Single Vehicle Collision,Front Collision,Total Loss,3,1,NO,2,49900,4990,9980,34930,Dodge,Neon,1998
+38,28,OH,500/1000,500,1122.95,4000000,Multi-vehicle Collision,Side Collision,Minor Damage,4,3,NO,0,74880,12480,12480,49920,Accura,TL,2000
+259,44,OH,250/500,2000,1655.79,0,Single Vehicle Collision,Front Collision,Minor Damage,8,1,YES,0,105820,16280,16280,73260,Audi,A3,2002
+241,43,IN,250/500,1000,935.77,0,Vehicle Theft,?,Trivial Damage,21,1,NO,1,7150,1300,650,5200,Volkswagen,Jetta,2003
+437,58,IN,500/1000,2000,1192.04,0,Single Vehicle Collision,Front Collision,Total Loss,23,1,YES,0,55800,11160,11160,33480,Dodge,RAM,2004
+130,34,OH,100/300,500,990.11,0,Parked Car,?,Trivial Damage,8,1,?,1,5830,1060,1060,3710,Dodge,RAM,2015
+269,41,OH,100/300,2000,1422.21,0,Single Vehicle Collision,Side Collision,Major Damage,21,1,YES,2,85900,17180,17180,51540,Suburu,Forrestor,2005
+103,29,OH,500/1000,500,914.85,0,Parked Car,?,Minor Damage,5,1,NO,2,7110,790,1580,4740,Accura,MDX,2005
+284,43,IL,250/500,500,1123.84,0,Multi-vehicle Collision,Side Collision,Total Loss,12,3,NO,0,36960,6720,3360,26880,Chevrolet,Tahoe,2007
+189,39,OH,250/500,2000,838.02,0,Multi-vehicle Collision,Rear Collision,Minor Damage,7,3,?,2,64400,6440,6440,51520,Dodge,Neon,1997
+267,43,OH,250/500,500,1300.68,0,Parked Car,?,Minor Damage,0,1,NO,1,1920,480,0,1440,Chevrolet,Tahoe,2011
+39,22,IN,500/1000,500,1173.21,0,Single Vehicle Collision,Rear Collision,Major Damage,14,1,YES,0,86130,15660,7830,62640,Suburu,Legacy,2009
+140,32,IL,250/500,1000,985.97,5000000,Single Vehicle Collision,Side Collision,Major Damage,13,1,?,2,82170,14940,7470,59760,Chevrolet,Silverado,1995
+243,41,IN,100/300,1000,1129.23,0,Single Vehicle Collision,Front Collision,Major Damage,1,1,?,1,50300,10060,5030,35210,Suburu,Legacy,1999
+116,31,IN,250/500,500,1194.83,0,Single Vehicle Collision,Side Collision,Major Damage,23,1,NO,0,44200,4420,8840,30940,Suburu,Forrestor,1997
+219,43,IN,100/300,1000,1114.29,0,Single Vehicle Collision,Side Collision,Major Damage,1,1,?,2,66660,6060,6060,54540,Toyota,Highlander,2006
+96,26,OH,250/500,2000,1509.04,0,Single Vehicle Collision,Front Collision,Total Loss,9,1,YES,2,78320,7120,14240,56960,Saab,92x,2007
+149,34,IN,250/500,500,664.86,0,Single Vehicle Collision,Rear Collision,Total Loss,3,1,?,0,105040,16160,16160,72720,Dodge,RAM,1999
+246,43,IN,250/500,1000,1267.4,6000000,Single Vehicle Collision,Side Collision,Minor Damage,0,1,NO,2,50700,5070,5070,40560,Accura,RSX,2006
+293,45,IL,100/300,1000,1119.23,0,Multi-vehicle Collision,Front Collision,Total Loss,13,3,NO,1,51210,11380,5690,34140,Jeep,Wrangler,2015
+339,48,OH,100/300,500,1698.51,0,Multi-vehicle Collision,Rear Collision,Total Loss,18,3,NO,2,51840,8640,8640,34560,Volkswagen,Jetta,2001
+160,33,IL,500/1000,1000,1422.78,0,Multi-vehicle Collision,Front Collision,Total Loss,17,3,?,2,52800,5280,5280,42240,Nissan,Pathfinder,2006
+224,42,OH,500/1000,500,1212.75,0,Single Vehicle Collision,Front Collision,Minor Damage,11,1,?,0,55200,9200,13800,32200,Honda,Civic,1998
+194,34,IN,100/300,1000,1423.34,0,Vehicle Theft,?,Minor Damage,0,1,YES,0,9100,1400,1400,6300,Chevrolet,Malibu,2003
+385,51,IN,250/500,1000,976.37,0,Multi-vehicle Collision,Rear Collision,Minor Damage,14,3,?,1,67600,13520,6760,47320,Suburu,Legacy,2007
+100,33,OH,250/500,500,1124.59,6000000,Single Vehicle Collision,Rear Collision,Minor Damage,4,1,NO,1,40800,6800,6800,27200,BMW,X5,2004
+371,50,IN,250/500,1000,1569.33,0,Multi-vehicle Collision,Side Collision,Major Damage,2,3,NO,2,84500,13000,13000,58500,Volkswagen,Passat,2011
+175,39,IN,500/1000,500,1359.36,5000000,Multi-vehicle Collision,Front Collision,Major Damage,9,3,YES,2,71610,13020,6510,52080,Toyota,Highlander,2012
+373,55,IN,250/500,500,1607.36,0,Multi-vehicle Collision,Rear Collision,Major Damage,21,4,?,0,60600,6060,12120,42420,Dodge,RAM,2007
+258,41,IL,100/300,500,1042.25,0,Multi-vehicle Collision,Rear Collision,Major Damage,0,3,NO,2,81240,6770,20310,54160,Mercedes,C300,2008
+255,39,OH,250/500,500,1453.95,0,Multi-vehicle Collision,Side Collision,Total Loss,17,3,YES,0,29300,2930,5860,20510,Audi,A3,2010
+37,31,IL,500/1000,500,1969.63,0,Multi-vehicle Collision,Side Collision,Total Loss,21,3,NO,1,76450,6950,13900,55600,Dodge,RAM,1995
+322,44,IL,100/300,1000,1156.19,0,Multi-vehicle Collision,Side Collision,Major Damage,20,3,YES,0,49400,9880,4940,34580,Jeep,Wrangler,2010
+204,38,IL,100/300,2000,1124.47,0,Single Vehicle Collision,Side Collision,Total Loss,5,1,NO,0,90530,16460,16460,57610,Ford,F150,2003
+76,31,OH,500/1000,500,1493.5,5000000,Vehicle Theft,?,Minor Damage,7,1,NO,2,8030,1460,730,5840,Mercedes,E400,1995
+193,40,IL,100/300,500,1155.38,0,Single Vehicle Collision,Side Collision,Minor Damage,6,1,NO,0,63900,6390,6390,51120,Accura,TL,2001
+405,55,IL,250/500,500,878.19,0,Multi-vehicle Collision,Rear Collision,Minor Damage,2,4,YES,0,38640,4830,4830,28980,Chevrolet,Tahoe,1997
+435,58,IN,100/300,2000,1145.85,0,Multi-vehicle Collision,Rear Collision,Total Loss,19,3,?,1,41490,9220,4610,27660,Mercedes,E400,2004
+54,35,IN,100/300,500,1261.28,0,Multi-vehicle Collision,Side Collision,Minor Damage,21,3,YES,2,79090,14380,7190,57520,Nissan,Maxima,2012
+144,35,IL,100/300,500,1427.46,0,Multi-vehicle Collision,Side Collision,Major Damage,3,3,?,0,87900,17580,8790,61530,Dodge,Neon,1995
+92,32,IL,500/1000,500,1592.41,0,Single Vehicle Collision,Rear Collision,Total Loss,22,1,?,2,53400,5340,5340,42720,Jeep,Wrangler,1996
+173,36,OH,250/500,1000,1274.63,0,Single Vehicle Collision,Rear Collision,Total Loss,22,1,YES,2,52030,9460,9460,33110,Accura,MDX,1995
+436,60,IN,250/500,500,1362.31,0,Single Vehicle Collision,Front Collision,Minor Damage,16,1,NO,0,82060,14920,7460,59680,Saab,93,2005
+155,35,OH,250/500,1000,919.37,0,Single Vehicle Collision,Front Collision,Minor Damage,0,1,?,0,48360,8060,8060,32240,Nissan,Maxima,1997
+78,31,OH,250/500,1000,1377.23,0,Multi-vehicle Collision,Side Collision,Minor Damage,1,3,?,2,52290,5810,11620,34860,Nissan,Maxima,1997
+440,57,IL,100/300,1000,995.55,5000000,Multi-vehicle Collision,Rear Collision,Major Damage,19,3,YES,0,68200,12400,12400,43400,Jeep,Wrangler,2007
+264,43,IL,100/300,500,1508.12,6000000,Multi-vehicle Collision,Rear Collision,Major Damage,0,3,?,2,60750,13500,6750,40500,Jeep,Wrangler,2015
+66,30,IN,500/1000,500,484.67,0,Multi-vehicle Collision,Front Collision,Major Damage,2,3,?,0,65560,11920,11920,41720,Volkswagen,Passat,2015
+366,50,IN,500/1000,1000,1561.41,0,Multi-vehicle Collision,Rear Collision,Minor Damage,5,3,YES,1,70290,12780,12780,44730,Mercedes,C300,2012
+188,37,OH,100/300,500,1457.21,0,Single Vehicle Collision,Rear Collision,Total Loss,6,1,?,2,45000,5000,5000,35000,Suburu,Forrestor,2003
+224,39,IL,500/1000,1000,1128.71,0,Multi-vehicle Collision,Rear Collision,Total Loss,21,3,YES,2,61800,12360,6180,43260,Suburu,Impreza,2007
+253,46,IL,100/300,500,1358.2,0,Multi-vehicle Collision,Front Collision,Major Damage,11,3,YES,0,64570,5870,11740,46960,Jeep,Wrangler,2001
+446,61,IL,100/300,1000,1232.79,0,Single Vehicle Collision,Rear Collision,Minor Damage,3,1,YES,2,70500,7050,14100,49350,Suburu,Forrestor,2007
+169,37,IL,100/300,1000,936.19,0,Multi-vehicle Collision,Side Collision,Total Loss,4,3,?,2,57900,17370,5790,34740,Audi,A5,2005
+255,46,IL,250/500,500,1302.34,0,Multi-vehicle Collision,Front Collision,Minor Damage,2,3,NO,1,57860,5260,10520,42080,Volkswagen,Jetta,2011
+209,39,IN,100/300,500,1264.99,0,Single Vehicle Collision,Side Collision,Minor Damage,22,1,?,1,37800,8400,4200,25200,Chevrolet,Silverado,1995
+210,37,OH,500/1000,500,1467.76,0,Single Vehicle Collision,Front Collision,Total Loss,8,1,?,1,63300,6330,6330,50640,Toyota,Highlander,2000
+174,33,IN,250/500,2000,1124.43,0,Multi-vehicle Collision,Rear Collision,Total Loss,14,3,YES,0,44200,8840,4420,30940,Saab,93,1995
+70,28,IL,250/500,1000,1319.81,0,Multi-vehicle Collision,Side Collision,Minor Damage,14,4,NO,1,31680,3520,3520,24640,Toyota,Camry,2006
+89,32,IN,100/300,2000,1482.53,0,Parked Car,?,Trivial Damage,5,1,YES,1,100,10,20,70,Audi,A3,2002
+458,61,IN,100/300,1000,1328.18,0,Single Vehicle Collision,Front Collision,Minor Damage,18,1,NO,2,56340,6260,6260,43820,Volkswagen,Passat,2003
+239,40,IN,100/300,500,1463.95,0,Multi-vehicle Collision,Rear Collision,Total Loss,20,3,?,0,69740,6340,6340,57060,Dodge,Neon,2003
+161,38,IL,100/300,2000,1133.85,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,YES,2,60480,5040,15120,40320,Volkswagen,Jetta,2003
+446,61,IN,500/1000,1000,1037.32,0,Multi-vehicle Collision,Rear Collision,Minor Damage,1,3,?,2,80880,6740,13480,60660,Nissan,Ultima,2005
+476,61,IN,250/500,1000,1562.8,0,Single Vehicle Collision,Front Collision,Total Loss,10,1,?,1,49390,8980,4490,35920,Suburu,Legacy,2009
+70,29,IN,100/300,1000,1425.79,0,Single Vehicle Collision,Front Collision,Minor Damage,12,1,NO,0,69360,11560,11560,46240,Dodge,RAM,2009
+233,41,OH,500/1000,2000,1615.14,0,Vehicle Theft,?,Minor Damage,6,1,NO,0,3740,680,680,2380,Chevrolet,Malibu,2011
+122,33,IL,250/500,500,1236.5,0,Parked Car,?,Trivial Damage,1,1,NO,0,5060,460,920,3680,Nissan,Ultima,2003
+335,48,IL,500/1000,2000,1017.97,0,Multi-vehicle Collision,Front Collision,Total Loss,21,3,NO,0,35860,3260,6520,26080,BMW,X5,2005
+257,40,IN,100/300,2000,1306,0,Multi-vehicle Collision,Front Collision,Major Damage,3,3,YES,2,50050,7700,3850,38500,Ford,Fusion,2008
+85,27,IL,500/1000,2000,1174.14,0,Multi-vehicle Collision,Rear Collision,Minor Damage,14,4,YES,0,59070,10740,5370,42960,Toyota,Camry,2012
+133,30,IN,500/1000,1000,1231.01,0,Multi-vehicle Collision,Front Collision,Minor Damage,19,3,NO,1,28440,3160,3160,22120,Dodge,Neon,2007
+119,34,IL,250/500,500,1299.18,0,Single Vehicle Collision,Front Collision,Major Damage,7,1,YES,2,45540,8280,8280,28980,Honda,Civic,1998
+169,34,IN,100/300,500,1469.75,0,Single Vehicle Collision,Rear Collision,Minor Damage,0,1,?,0,38700,7740,3870,27090,Volkswagen,Passat,2012
+225,39,OH,250/500,500,1390.72,0,Parked Car,?,Trivial Damage,6,1,YES,2,5830,1060,530,4240,Nissan,Pathfinder,2011
+84,32,IL,500/1000,500,1694.09,7000000,Single Vehicle Collision,Rear Collision,Total Loss,0,1,YES,0,57240,4770,9540,42930,BMW,X6,1995
+169,39,OH,100/300,2000,1140.15,0,Multi-vehicle Collision,Rear Collision,Total Loss,9,3,YES,0,46200,4200,8400,33600,Suburu,Legacy,2015
+124,32,IN,100/300,1000,1310.71,0,Single Vehicle Collision,Side Collision,Total Loss,23,1,YES,0,57700,5770,5770,46160,Toyota,Camry,2003
+320,48,IL,250/500,2000,1730.49,7000000,Multi-vehicle Collision,Front Collision,Minor Damage,13,3,NO,2,56160,4680,9360,42120,Saab,95,1995
+297,47,IN,250/500,500,1616.65,7000000,Multi-vehicle Collision,Side Collision,Total Loss,0,3,?,0,44400,5550,5550,33300,Jeep,Grand Cherokee,1999
+421,56,IN,100/300,500,1935.85,4000000,Single Vehicle Collision,Rear Collision,Major Damage,7,1,?,2,92730,16860,8430,67440,Mercedes,E400,2004
+136,33,OH,250/500,1000,855.14,0,Single Vehicle Collision,Side Collision,Minor Damage,23,1,YES,0,30700,3070,6140,21490,Toyota,Corolla,2015
+46,24,OH,250/500,2000,1568.47,4000000,Single Vehicle Collision,Side Collision,Major Damage,7,1,NO,2,56600,11320,5660,39620,Toyota,Camry,1999
+34,24,IN,500/1000,2000,1550.53,0,Parked Car,?,Trivial Damage,20,1,YES,0,3960,660,660,2640,Audi,A3,1998
+95,30,IL,250/500,2000,1370.92,0,Single Vehicle Collision,Rear Collision,Minor Damage,22,1,YES,0,34800,3480,6960,24360,Accura,MDX,1999
+140,36,IN,250/500,500,1363.59,0,Multi-vehicle Collision,Rear Collision,Minor Damage,10,3,?,2,79500,7950,7950,63600,Chevrolet,Tahoe,2000
+200,34,IN,250/500,1000,828.42,3000000,Single Vehicle Collision,Front Collision,Total Loss,10,1,?,2,56000,5600,5600,44800,Chevrolet,Malibu,2009
+123,29,IN,250/500,500,1209.63,0,Single Vehicle Collision,Rear Collision,Minor Damage,17,1,YES,1,73260,16280,0,56980,Volkswagen,Jetta,2014
+267,46,OH,250/500,2000,1111.17,0,Parked Car,?,Trivial Damage,3,1,YES,2,4950,900,450,3600,Toyota,Camry,1995
+290,42,IN,500/1000,500,989.97,0,Single Vehicle Collision,Rear Collision,Minor Damage,10,1,NO,0,48000,4800,9600,33600,Saab,95,2013
+45,37,IN,250/500,1000,1114.23,0,Single Vehicle Collision,Side Collision,Major Damage,1,1,YES,0,52200,10440,5220,36540,Nissan,Pathfinder,2005
+186,38,IN,250/500,2000,1347.31,0,Multi-vehicle Collision,Rear Collision,Minor Damage,1,3,NO,2,73800,12300,12300,49200,Audi,A3,1995
+135,34,IL,250/500,2000,1687.53,0,Single Vehicle Collision,Side Collision,Total Loss,7,1,?,1,78200,15640,7820,54740,Audi,A3,2009
+110,33,IN,250/500,1000,1183.48,0,Single Vehicle Collision,Rear Collision,Major Damage,19,1,?,2,55200,13800,9200,32200,Saab,93,2015
+259,43,IL,500/1000,2000,1537.13,0,Multi-vehicle Collision,Side Collision,Total Loss,3,3,NO,0,57060,6340,6340,44380,Ford,Fusion,2012
+114,30,OH,250/500,1000,1173.25,0,Vehicle Theft,?,Minor Damage,3,1,NO,0,4680,520,520,3640,Chevrolet,Malibu,2013
+404,56,IN,250/500,1000,1361.16,4000000,Single Vehicle Collision,Front Collision,Minor Damage,23,1,NO,2,53100,5310,5310,42480,Accura,MDX,2005
+282,48,OH,500/1000,2000,1422.56,7000000,Vehicle Theft,?,Minor Damage,7,1,?,1,3520,640,320,2560,Accura,MDX,2013
+57,25,IL,500/1000,2000,1143.06,0,Multi-vehicle Collision,Front Collision,Total Loss,0,3,NO,0,72900,14580,14580,43740,Nissan,Maxima,2010
+215,38,IN,250/500,500,1405.71,0,Single Vehicle Collision,Rear Collision,Total Loss,10,1,?,0,70700,7070,14140,49490,Volkswagen,Passat,2008
+140,30,IL,100/300,500,1354.2,0,Multi-vehicle Collision,Side Collision,Minor Damage,4,4,?,0,60170,5470,10940,43760,Nissan,Pathfinder,2006
+250,42,IN,100/300,500,1055.6,0,Single Vehicle Collision,Rear Collision,Major Damage,16,1,?,1,74800,13600,6800,54400,Ford,Fusion,2009
+286,41,IL,250/500,1000,999.43,0,Vehicle Theft,?,Trivial Damage,3,1,YES,2,4100,820,410,2870,Chevrolet,Malibu,2009
+356,47,IN,250/500,2000,1155.97,0,Single Vehicle Collision,Side Collision,Minor Damage,5,1,YES,0,61490,5590,11180,44720,Dodge,RAM,2009
+65,29,IL,250/500,1000,1726.91,0,Vehicle Theft,?,Trivial Damage,14,1,?,0,7200,720,1440,5040,Audi,A5,1999
+187,34,IN,500/1000,500,1232.57,0,Multi-vehicle Collision,Side Collision,Minor Damage,7,3,?,0,45100,8200,4100,32800,Nissan,Pathfinder,2011
+386,53,OH,250/500,500,1078.65,0,Single Vehicle Collision,Front Collision,Minor Damage,16,1,?,2,66660,12120,6060,48480,Honda,Civic,2006
+197,41,OH,500/1000,1000,1324.78,0,Single Vehicle Collision,Front Collision,Major Damage,6,1,NO,2,76400,15280,7640,53480,Volkswagen,Jetta,1997
+166,37,IN,250/500,500,1518.54,0,Single Vehicle Collision,Rear Collision,Total Loss,10,1,YES,1,58300,10600,10600,37100,Ford,F150,2001
+293,49,IL,100/300,2000,1239.06,0,Single Vehicle Collision,Front Collision,Total Loss,19,1,?,1,57310,5210,10420,41680,Volkswagen,Passat,2002
+179,32,OH,500/1000,2000,1246.68,0,Single Vehicle Collision,Front Collision,Minor Damage,10,1,?,0,53100,5900,5900,41300,Suburu,Impreza,2006
+76,24,OH,250/500,1000,1622.67,0,Multi-vehicle Collision,Side Collision,Total Loss,6,3,NO,1,74700,14940,7470,52290,Suburu,Forrestor,1997
+105,28,OH,250/500,500,1082.36,0,Multi-vehicle Collision,Rear Collision,Major Damage,12,3,NO,2,60500,12100,6050,42350,Audi,A5,1995
+97,26,OH,250/500,1000,1270.55,0,Multi-vehicle Collision,Side Collision,Total Loss,10,3,YES,2,84920,7720,15440,61760,Jeep,Wrangler,2006
+148,36,IL,500/1000,1000,1236.32,5000000,Single Vehicle Collision,Side Collision,Total Loss,0,1,NO,2,61050,5550,11100,44400,Dodge,Neon,2009
+77,26,IL,250/500,2000,785.82,0,Multi-vehicle Collision,Rear Collision,Major Damage,12,3,YES,2,69080,12560,6280,50240,Audi,A5,2009
+295,46,IN,250/500,500,1265.84,0,Vehicle Theft,?,Minor Damage,10,1,YES,1,4560,760,380,3420,Nissan,Pathfinder,2007
+126,28,IN,250/500,500,1508.9,0,Multi-vehicle Collision,Rear Collision,Total Loss,3,4,NO,0,67800,11300,11300,45200,Ford,F150,2011
+132,32,OH,250/500,2000,1106.84,0,Vehicle Theft,?,Minor Damage,21,1,YES,1,5600,1120,560,3920,Suburu,Legacy,2005
+370,55,IN,500/1000,2000,1389.13,7000000,Vehicle Theft,?,Minor Damage,6,1,?,0,9000,900,1800,6300,Mercedes,ML350,2015
+257,43,IN,100/300,1000,974.84,0,Single Vehicle Collision,Rear Collision,Total Loss,0,1,NO,0,85320,21330,7110,56880,Nissan,Pathfinder,2006
+9,24,IL,100/300,2000,1304.46,0,Vehicle Theft,?,Trivial Damage,6,1,NO,0,5940,540,1080,4320,Audi,A5,2001
+185,34,OH,250/500,500,1257.36,0,Multi-vehicle Collision,Side Collision,Major Damage,20,3,YES,1,51370,9340,4670,37360,BMW,M5,2000
+234,43,OH,250/500,500,1257.04,0,Single Vehicle Collision,Rear Collision,Major Damage,4,1,NO,2,51600,10320,5160,36120,Dodge,Neon,2011
+253,44,OH,100/300,2000,719.52,0,Parked Car,?,Trivial Damage,9,1,NO,0,5400,600,600,4200,Chevrolet,Malibu,1998
+233,39,OH,500/1000,2000,1524.18,0,Multi-vehicle Collision,Rear Collision,Minor Damage,20,3,?,1,48870,5430,5430,38010,Saab,95,1999
+274,44,IN,500/1000,500,1395.58,0,Vehicle Theft,?,Minor Damage,7,1,NO,2,5590,860,860,3870,BMW,X5,2000
+297,48,IL,500/1000,1000,1243.68,0,Multi-vehicle Collision,Front Collision,Major Damage,18,3,?,0,54960,6870,0,48090,Toyota,Corolla,2002
+273,47,OH,500/1000,1000,1189.04,0,Multi-vehicle Collision,Side Collision,Minor Damage,0,3,NO,1,39800,7960,3980,27860,Jeep,Wrangler,2014
+147,37,IN,500/1000,2000,1375.29,0,Multi-vehicle Collision,Side Collision,Major Damage,11,3,?,0,56160,6240,6240,43680,Ford,Fusion,2015
+285,42,IN,100/300,500,1389.13,0,Single Vehicle Collision,Side Collision,Total Loss,13,1,NO,0,52700,5270,10540,36890,Toyota,Corolla,2005
+289,43,OH,500/1000,1000,1387.51,0,Multi-vehicle Collision,Side Collision,Minor Damage,19,3,YES,1,68580,7620,7620,53340,Jeep,Wrangler,2010
+427,60,IN,100/300,1000,1178.61,7000000,Single Vehicle Collision,Side Collision,Major Damage,23,1,YES,1,90860,12980,19470,58410,Volkswagen,Jetta,2004
+380,53,IL,250/500,2000,1166.62,6000000,Parked Car,?,Trivial Damage,23,1,NO,0,5700,570,570,4560,Saab,93,2001
+13,21,IN,100/300,1000,1556.31,0,Multi-vehicle Collision,Side Collision,Total Loss,19,3,YES,2,94930,8630,8630,77670,Accura,RSX,2014
+282,43,OH,250/500,500,1452.27,0,Single Vehicle Collision,Side Collision,Major Damage,19,1,NO,1,46800,4680,9360,32760,Audi,A5,2007
+312,47,OH,500/1000,1000,1212.07,0,Multi-vehicle Collision,Side Collision,Total Loss,17,3,NO,2,56320,7040,7040,42240,Mercedes,ML350,2000
+266,46,OH,100/300,2000,1578.54,0,Single Vehicle Collision,Front Collision,Minor Damage,18,1,NO,1,83490,7590,15180,60720,Nissan,Pathfinder,1996
+30,36,IN,500/1000,500,1488.26,0,Multi-vehicle Collision,Side Collision,Total Loss,17,3,NO,2,57900,5790,5790,46320,Saab,95,2008
+198,36,IN,250/500,1000,1096.39,0,Multi-vehicle Collision,Rear Collision,Total Loss,11,3,?,1,49410,5490,5490,38430,Audi,A3,2015
+290,45,OH,500/1000,2000,1215.36,0,Multi-vehicle Collision,Side Collision,Minor Damage,22,3,?,0,66200,6620,6620,52960,Suburu,Impreza,2012
+260,46,OH,100/300,2000,1482.57,0,Single Vehicle Collision,Front Collision,Minor Damage,7,1,NO,0,64080,10680,10680,42720,Toyota,Camry,2005
+233,43,OH,250/500,1000,954.18,0,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,?,2,42500,8500,4250,29750,Nissan,Pathfinder,2000
+130,30,IL,500/1000,2000,1193.4,0,Multi-vehicle Collision,Side Collision,Total Loss,16,3,NO,2,48950,8900,4450,35600,Suburu,Legacy,2005
+230,42,IN,100/300,1000,1023.11,0,Multi-vehicle Collision,Rear Collision,Minor Damage,13,3,NO,1,58850,10700,10700,37450,Accura,MDX,1999
+212,40,IL,500/1000,1000,1524.45,0,Multi-vehicle Collision,Side Collision,Minor Damage,17,3,YES,0,82400,8240,8240,65920,Nissan,Pathfinder,2006
+299,44,OH,500/1000,1000,1653.32,0,Single Vehicle Collision,Rear Collision,Minor Damage,3,1,YES,2,54240,6780,6780,40680,Suburu,Impreza,2009
+91,26,IL,250/500,1000,1022.46,0,Multi-vehicle Collision,Front Collision,Minor Damage,15,3,?,0,74200,7420,7420,59360,Jeep,Wrangler,1996
+398,53,IL,100/300,2000,1396.43,0,Single Vehicle Collision,Front Collision,Total Loss,16,1,YES,2,47430,5270,5270,36890,Toyota,Camry,2000
+218,43,IL,250/500,500,1521.55,0,Single Vehicle Collision,Rear Collision,Major Damage,18,1,?,1,68200,13640,6820,47740,Dodge,RAM,2003
+152,33,IN,100/300,1000,1034.27,0,Single Vehicle Collision,Front Collision,Minor Damage,18,1,NO,1,63900,7100,7100,49700,Accura,TL,2014
+212,39,OH,100/300,1000,1255.35,0,Multi-vehicle Collision,Rear Collision,Total Loss,22,2,NO,0,59300,11860,5930,41510,Dodge,RAM,2008
+242,44,IL,500/1000,2000,1396.89,6000000,Multi-vehicle Collision,Front Collision,Minor Damage,15,3,NO,1,66900,6690,13380,46830,Suburu,Forrestor,1999
+80,27,OH,500/1000,500,795.31,0,Multi-vehicle Collision,Rear Collision,Major Damage,16,3,YES,1,40810,3710,7420,29680,Ford,F150,2000
+260,43,IN,100/300,500,982.22,0,Single Vehicle Collision,Front Collision,Total Loss,18,1,?,1,75400,15080,7540,52780,Honda,CRV,2011
+133,34,IN,500/1000,500,1074.07,0,Parked Car,?,Minor Damage,8,1,NO,2,4200,420,840,2940,Jeep,Wrangler,2013
+290,45,OH,100/300,1000,1311.3,0,Multi-vehicle Collision,Side Collision,Major Damage,23,3,YES,0,52650,5850,5850,40950,Ford,F150,2001
+322,49,IL,250/500,2000,1277.12,0,Single Vehicle Collision,Rear Collision,Major Damage,18,1,?,0,42240,7680,7680,26880,Chevrolet,Malibu,2007
+228,39,IN,500/1000,500,1388.62,0,Single Vehicle Collision,Side Collision,Minor Damage,10,1,YES,1,59490,6610,6610,46270,Mercedes,ML350,1995
+195,37,IL,100/300,1000,1406.52,8000000,Single Vehicle Collision,Side Collision,Major Damage,12,1,NO,0,44200,4420,4420,35360,Jeep,Wrangler,2002
+247,39,IN,100/300,500,1558.29,0,Vehicle Theft,?,Trivial Damage,5,1,YES,1,7700,770,1540,5390,Saab,93,2000
+405,57,IN,500/1000,1000,1132.47,4000000,Multi-vehicle Collision,Front Collision,Total Loss,21,3,?,2,61440,10240,10240,40960,Saab,93,2008
+144,37,OH,250/500,2000,1896.91,0,Multi-vehicle Collision,Rear Collision,Major Damage,17,3,YES,1,54400,5440,10880,38080,Chevrolet,Silverado,2015
+338,47,IL,500/1000,500,1143.46,4000000,Single Vehicle Collision,Front Collision,Total Loss,4,1,YES,2,58560,9760,9760,39040,Mercedes,E400,2002
+121,34,IN,500/1000,500,1285.42,0,Single Vehicle Collision,Front Collision,Major Damage,11,1,NO,1,67300,6730,6730,53840,Dodge,RAM,2000
+398,55,OH,250/500,2000,1305.26,0,Single Vehicle Collision,Rear Collision,Major Damage,18,1,?,1,36740,3340,6680,26720,BMW,X5,1998
+9,30,IL,100/300,1000,1073.83,0,Single Vehicle Collision,Rear Collision,Total Loss,12,1,?,0,85690,15580,15580,54530,BMW,3 Series,2011
+115,31,OH,500/1000,1000,1051.67,0,Multi-vehicle Collision,Side Collision,Major Damage,18,3,YES,0,34160,0,4270,29890,Audi,A5,2005
+280,48,IL,250/500,1000,1387.35,0,Single Vehicle Collision,Front Collision,Minor Damage,16,1,NO,2,61320,10220,10220,40880,BMW,M5,1998
+254,45,IL,250/500,500,1083.64,0,Multi-vehicle Collision,Rear Collision,Total Loss,19,3,YES,0,79680,13280,13280,53120,BMW,3 Series,2004
+141,30,IL,250/500,1000,1851.78,0,Single Vehicle Collision,Front Collision,Total Loss,13,1,NO,1,61740,6860,6860,48020,Audi,A3,2002
+441,55,IN,250/500,500,1270.29,4000000,Parked Car,?,Minor Damage,4,1,NO,0,6400,640,640,5120,Honda,Civic,2002
+381,55,OH,500/1000,500,1459.99,0,Single Vehicle Collision,Rear Collision,Major Damage,8,1,YES,1,60600,12120,6060,42420,Accura,TL,2011
+191,38,IL,100/300,2000,1253.44,0,Multi-vehicle Collision,Side Collision,Major Damage,19,3,NO,2,56320,10240,5120,40960,Volkswagen,Jetta,2007
+145,34,IN,100/300,1000,1142.48,0,Single Vehicle Collision,Side Collision,Total Loss,18,1,YES,2,52250,9500,4750,38000,Suburu,Legacy,2012
+479,60,IL,500/1000,1000,1188.45,0,Multi-vehicle Collision,Rear Collision,Total Loss,9,2,?,0,53900,5390,10780,37730,Saab,95,2006
+215,35,IL,500/1000,1000,1125.4,0,Vehicle Theft,?,Trivial Damage,6,1,?,2,2640,220,440,1980,Jeep,Wrangler,2001
+41,33,OH,250/500,500,1294.41,0,Vehicle Theft,?,Minor Damage,8,1,YES,0,8970,1380,1380,6210,Dodge,Neon,2011
+45,31,IN,100/300,500,1459.5,0,Parked Car,?,Minor Damage,6,1,?,1,6000,1000,1000,4000,Suburu,Impreza,2000
+156,38,IL,100/300,500,1367.99,0,Multi-vehicle Collision,Front Collision,Major Damage,23,3,?,0,55200,11040,5520,38640,Saab,92x,1998
+246,45,IN,250/500,500,1594.37,0,Parked Car,?,Trivial Damage,13,1,NO,0,7260,660,1320,5280,Saab,92x,2008
+178,39,IL,100/300,500,1035.99,0,Multi-vehicle Collision,Front Collision,Minor Damage,3,3,NO,2,64680,11760,11760,41160,Jeep,Wrangler,2010
+237,43,OH,250/500,500,911.53,0,Single Vehicle Collision,Rear Collision,Major Damage,23,1,NO,0,59200,0,11840,47360,Chevrolet,Malibu,1998
+127,34,OH,500/1000,500,1319.97,0,Vehicle Theft,?,Minor Damage,8,1,YES,1,4700,470,940,3290,Saab,92x,1998
+1,33,OH,250/500,2000,1391.63,0,Single Vehicle Collision,Side Collision,Total Loss,23,1,YES,0,69400,6940,6940,55520,Mercedes,C300,2000
+5,21,IN,250/500,500,915.41,5000000,Single Vehicle Collision,Side Collision,Total Loss,23,1,YES,0,40500,4050,4050,32400,Nissan,Pathfinder,1998
+64,28,IL,500/1000,1000,1468.82,0,Multi-vehicle Collision,Side Collision,Minor Damage,9,3,NO,2,60000,5000,10000,45000,Honda,Accord,1997
+142,30,IN,500/1000,500,1412.76,0,Single Vehicle Collision,Side Collision,Minor Damage,22,1,YES,2,67320,11220,11220,44880,Volkswagen,Jetta,1996
+97,27,OH,500/1000,500,1588.26,0,Multi-vehicle Collision,Side Collision,Total Loss,22,3,YES,2,75690,8410,8410,58870,Saab,95,2014
+121,31,IN,100/300,1000,1140.91,0,Multi-vehicle Collision,Side Collision,Major Damage,15,3,NO,1,64300,6430,6430,51440,Chevrolet,Silverado,2002
+225,43,OH,100/300,1000,1517.54,0,Multi-vehicle Collision,Rear Collision,Major Damage,16,3,NO,2,64400,6440,6440,51520,BMW,X5,2011
+425,53,OH,250/500,2000,912.29,0,Multi-vehicle Collision,Front Collision,Minor Damage,17,3,?,1,97080,16180,16180,64720,Saab,92x,2005
+285,44,OH,250/500,2000,1144.3,0,Vehicle Theft,?,Minor Damage,3,1,YES,1,5500,500,500,4500,Honda,Civic,2010
+192,38,IN,500/1000,1000,1281.43,0,Multi-vehicle Collision,Rear Collision,Total Loss,10,3,?,0,30700,3070,6140,21490,Jeep,Wrangler,2010
+285,48,IL,100/300,2000,1101.85,0,Single Vehicle Collision,Side Collision,Minor Damage,9,1,NO,1,33480,3720,3720,26040,Nissan,Pathfinder,2012
+98,26,IN,500/1000,2000,1082.1,0,Multi-vehicle Collision,Front Collision,Total Loss,13,2,?,0,65430,14540,7270,43620,Jeep,Wrangler,2001
+175,36,OH,500/1000,500,1185.44,0,Multi-vehicle Collision,Rear Collision,Major Damage,15,3,YES,2,42680,3880,7760,31040,Accura,RSX,2006
+259,45,IL,500/1000,2000,1175.07,0,Single Vehicle Collision,Side Collision,Minor Damage,23,1,?,1,87780,7980,7980,71820,Honda,CRV,2011
+140,36,OH,500/1000,2000,979.26,0,Multi-vehicle Collision,Front Collision,Major Damage,2,4,YES,0,72800,14560,14560,43680,Honda,Accord,1998
+231,37,OH,250/500,500,920.81,0,Single Vehicle Collision,Rear Collision,Major Damage,14,1,YES,2,71190,0,7910,63280,Mercedes,C300,1997
+186,38,OH,100/300,500,922.85,0,Vehicle Theft,?,Trivial Damage,7,1,?,1,3600,400,400,2800,Honda,Civic,1999
+229,41,OH,250/500,2000,1107.59,3000000,Single Vehicle Collision,Side Collision,Major Damage,23,1,NO,1,62640,10440,10440,41760,Mercedes,C300,2009
+180,36,IL,100/300,500,1272.46,0,Multi-vehicle Collision,Front Collision,Minor Damage,7,3,YES,2,69630,12660,6330,50640,Toyota,Corolla,1998
+188,33,IL,250/500,1000,1340.24,0,Multi-vehicle Collision,Rear Collision,Minor Damage,8,3,YES,1,76010,13820,6910,55280,Dodge,RAM,1995
+214,40,OH,100/300,1000,1648,0,Single Vehicle Collision,Rear Collision,Total Loss,17,1,NO,1,44220,8040,4020,32160,Accura,MDX,2000
+178,38,IL,250/500,500,1381.14,0,Multi-vehicle Collision,Rear Collision,Minor Damage,10,3,NO,0,57200,5200,10400,41600,BMW,M5,2011
+55,35,IL,500/1000,500,1198.44,8000000,Vehicle Theft,?,Minor Damage,9,1,NO,0,3080,560,560,1960,Nissan,Ultima,1998
+90,31,OH,250/500,2000,951.27,0,Single Vehicle Collision,Rear Collision,Total Loss,2,1,YES,1,75790,13780,6890,55120,Accura,RSX,2007
+135,30,IN,500/1000,2000,1341.24,0,Multi-vehicle Collision,Rear Collision,Minor Damage,18,3,NO,0,32670,5940,2970,23760,Honda,Accord,2003
+277,46,IL,250/500,2000,1177.57,0,Vehicle Theft,?,Minor Damage,4,1,?,2,3870,430,860,2580,Jeep,Wrangler,2010
+211,38,IN,250/500,1000,1055.09,0,Single Vehicle Collision,Front Collision,Total Loss,12,1,?,0,91520,8320,16640,66560,BMW,X6,2005
+156,32,IL,250/500,500,1479.48,0,Single Vehicle Collision,Front Collision,Major Damage,15,1,YES,1,74690,6790,13580,54320,Dodge,RAM,2008
+84,30,IN,500/1000,2000,1827.38,0,Vehicle Theft,?,Trivial Damage,9,1,YES,1,4620,420,840,3360,Audi,A5,1998
+136,32,IN,100/300,500,1169.62,0,Single Vehicle Collision,Side Collision,Major Damage,6,1,YES,0,55000,10000,10000,35000,Toyota,Camry,2008
+310,48,IN,100/300,500,1516.34,0,Multi-vehicle Collision,Rear Collision,Major Damage,11,4,YES,0,59400,13200,6600,39600,Saab,93,1996
+123,34,OH,500/1000,2000,1270.21,0,Multi-vehicle Collision,Side Collision,Total Loss,13,3,NO,1,55260,6140,0,49120,Nissan,Ultima,2000
+243,44,IL,250/500,500,809.11,0,Multi-vehicle Collision,Side Collision,Minor Damage,4,3,?,2,51400,5140,10280,35980,Honda,Civic,1996
+36,37,IL,500/1000,1000,1115.81,0,Multi-vehicle Collision,Side Collision,Minor Damage,20,3,YES,1,48780,5420,10840,32520,Dodge,Neon,2008
+146,31,OH,100/300,1000,1457.65,5000000,Multi-vehicle Collision,Rear Collision,Major Damage,0,3,NO,1,52380,5820,5820,40740,Toyota,Highlander,2010
+154,34,OH,100/300,1000,1041.36,0,Multi-vehicle Collision,Side Collision,Total Loss,18,4,?,2,74360,13520,13520,47320,Toyota,Highlander,2005
+204,40,OH,250/500,1000,1693.83,7000000,Single Vehicle Collision,Front Collision,Minor Damage,6,1,?,1,53400,5340,5340,42720,Honda,CRV,2003
+458,59,IN,100/300,1000,1685.69,0,Single Vehicle Collision,Front Collision,Total Loss,23,1,?,2,71800,14360,14360,43080,Jeep,Grand Cherokee,1995
+147,31,IN,250/500,500,1054.92,6000000,Single Vehicle Collision,Front Collision,Major Damage,4,1,?,0,68240,8530,0,59710,Toyota,Corolla,2013
+279,45,IN,250/500,2000,1333.97,6000000,Multi-vehicle Collision,Rear Collision,Major Damage,21,3,?,1,61050,11100,11100,38850,Dodge,RAM,2011
+308,47,OH,100/300,1000,1013.61,6000000,Parked Car,?,Minor Damage,7,1,?,1,5590,860,860,3870,Suburu,Impreza,2002
+284,48,IL,500/1000,500,958.3,0,Multi-vehicle Collision,Side Collision,Major Damage,19,3,?,0,46860,8520,8520,29820,Volkswagen,Passat,1998
+108,31,IN,250/500,2000,1112.04,6000000,Parked Car,?,Minor Damage,5,1,NO,1,4290,780,780,2730,Volkswagen,Passat,1998
+421,57,IN,250/500,2000,1206.26,0,Multi-vehicle Collision,Front Collision,Minor Damage,22,3,YES,0,78500,15700,7850,54950,Audi,A3,2015
+266,42,IL,500/1000,1000,763.67,0,Single Vehicle Collision,Side Collision,Total Loss,12,1,YES,1,70830,7870,7870,55090,Jeep,Grand Cherokee,2005
+412,56,IL,250/500,500,1042.56,0,Multi-vehicle Collision,Front Collision,Total Loss,19,3,NO,0,68040,15120,7560,45360,Suburu,Forrestor,1997
+31,32,IL,100/300,2000,1263.48,4000000,Single Vehicle Collision,Side Collision,Major Damage,10,1,?,2,63600,5300,10600,47700,Audi,A5,1997
+465,63,IL,250/500,500,1006.99,6000000,Single Vehicle Collision,Side Collision,Minor Damage,7,1,NO,0,43560,4840,4840,33880,Suburu,Legacy,2015
+126,31,OH,250/500,1000,1328.26,0,Single Vehicle Collision,Front Collision,Total Loss,17,1,NO,1,60840,13520,6760,40560,Suburu,Forrestor,2011
+407,55,OH,100/300,1000,1250.08,5000000,Multi-vehicle Collision,Side Collision,Total Loss,0,3,?,2,68160,11360,11360,45440,Ford,Escape,2010
+101,27,IL,500/1000,500,982.7,6000000,Parked Car,?,Minor Damage,9,1,NO,1,5170,940,470,3760,Toyota,Camry,2001
+187,37,IN,500/1000,1000,1412.06,5000000,Single Vehicle Collision,Side Collision,Total Loss,21,1,?,0,57700,5770,5770,46160,Nissan,Maxima,2000
+252,46,IN,500/1000,2000,1066.7,0,Multi-vehicle Collision,Front Collision,Total Loss,22,3,NO,0,89520,14920,14920,59680,Audi,A3,2014
+229,43,IN,250/500,2000,1585.54,0,Vehicle Theft,?,Minor Damage,3,1,NO,1,4620,420,840,3360,Volkswagen,Jetta,2012
+246,39,IN,250/500,1000,1416.08,0,Single Vehicle Collision,Rear Collision,Minor Damage,16,1,YES,0,45180,5020,5020,35140,Honda,CRV,2004
+190,38,OH,250/500,500,1246.03,0,Single Vehicle Collision,Side Collision,Total Loss,14,1,YES,0,45100,9020,4510,31570,Nissan,Maxima,2013
+95,32,IN,500/1000,2000,1356.64,0,Multi-vehicle Collision,Side Collision,Total Loss,21,3,YES,0,83160,15120,15120,52920,Toyota,Camry,2003
+205,42,IL,100/300,2000,1387.7,4000000,Single Vehicle Collision,Rear Collision,Minor Damage,19,1,NO,2,86130,15660,15660,54810,Chevrolet,Silverado,1995
+41,25,OH,100/300,1000,1004.14,0,Multi-vehicle Collision,Front Collision,Major Damage,13,3,NO,1,48000,9600,4800,33600,Dodge,RAM,1995
+137,35,OH,500/1000,500,1107.07,0,Vehicle Theft,?,Minor Damage,21,1,NO,0,3300,600,600,2100,Saab,92x,2008
+194,34,IL,100/300,500,1429.96,0,Multi-vehicle Collision,Rear Collision,Minor Damage,11,3,NO,1,57200,11440,5720,40040,Toyota,Camry,2005
+128,35,IN,250/500,1000,1074.99,0,Vehicle Theft,?,Trivial Damage,16,1,?,2,7590,1380,690,5520,Accura,MDX,2012
+150,37,OH,500/1000,1000,1007,0,Single Vehicle Collision,Rear Collision,Total Loss,9,1,NO,0,80080,12320,12320,55440,Chevrolet,Silverado,2013
+104,30,OH,100/300,500,1052.85,0,Vehicle Theft,?,Minor Damage,8,1,NO,0,4800,960,480,3360,BMW,3 Series,2006
+163,37,IN,500/1000,1000,1200.33,4000000,Vehicle Theft,?,Minor Damage,7,1,?,2,3900,390,780,2730,Volkswagen,Jetta,2008
+80,26,IL,100/300,1000,1343,0,Single Vehicle Collision,Front Collision,Minor Damage,12,1,?,0,90400,9040,9040,72320,BMW,3 Series,1995
+65,29,OH,250/500,2000,1441.6,5000000,Multi-vehicle Collision,Rear Collision,Minor Damage,21,3,YES,0,62900,6290,12580,44030,Jeep,Grand Cherokee,1998
+179,32,OH,100/300,1000,1433.42,6000000,Single Vehicle Collision,Rear Collision,Major Damage,4,1,YES,1,54200,5420,10840,37940,Nissan,Ultima,2014
+372,50,OH,500/1000,2000,1368.57,0,Multi-vehicle Collision,Side Collision,Major Damage,18,3,NO,2,51800,5180,10360,36260,Accura,MDX,2003
+398,55,OH,250/500,500,862.19,0,Vehicle Theft,?,Trivial Damage,7,1,?,2,6600,600,1200,4800,Accura,MDX,2012
+213,35,OH,250/500,500,871.46,0,Single Vehicle Collision,Side Collision,Total Loss,13,1,YES,2,74140,13480,6740,53920,Ford,Escape,2007
+79,25,OH,500/1000,500,1863.04,0,Single Vehicle Collision,Front Collision,Total Loss,0,1,NO,2,67800,13560,6780,47460,Mercedes,C300,1995
+232,44,OH,250/500,2000,1181.64,0,Single Vehicle Collision,Rear Collision,Major Damage,22,1,?,1,55400,5540,11080,38780,Jeep,Grand Cherokee,2002
+230,37,IL,500/1000,1000,1060.74,0,Single Vehicle Collision,Rear Collision,Major Damage,15,1,YES,2,49100,9820,4910,34370,Suburu,Impreza,1996
+234,41,IN,100/300,500,951.56,0,Multi-vehicle Collision,Side Collision,Major Damage,3,3,NO,2,98280,15120,7560,75600,Chevrolet,Tahoe,2007
+240,40,IN,100/300,500,1533.71,9000000,Multi-vehicle Collision,Rear Collision,Total Loss,18,2,YES,0,66550,6050,12100,48400,Ford,Escape,2008
+143,33,OH,500/1000,1000,1200.09,0,Multi-vehicle Collision,Side Collision,Major Damage,17,3,?,2,70400,14080,7040,49280,Accura,RSX,2002
+266,42,IN,100/300,500,1093.83,4000000,Multi-vehicle Collision,Side Collision,Major Damage,18,3,?,1,53280,4440,8880,39960,Suburu,Impreza,2015
+89,32,IN,250/500,1000,988.93,0,Single Vehicle Collision,Front Collision,Total Loss,11,1,?,2,84590,15380,15380,53830,Dodge,Neon,1999
+229,37,IN,500/1000,1000,1331.94,0,Single Vehicle Collision,Rear Collision,Total Loss,17,1,NO,0,54560,9920,9920,34720,Saab,95,2004
+245,40,IL,500/1000,1000,1361.45,0,Single Vehicle Collision,Rear Collision,Minor Damage,12,1,YES,0,82170,7470,7470,67230,Suburu,Forrestor,1999
+50,44,OH,250/500,2000,1188.51,0,Multi-vehicle Collision,Front Collision,Total Loss,15,3,?,1,61100,6110,12220,42770,Dodge,Neon,2008
+230,43,IN,500/1000,2000,1101.83,0,Multi-vehicle Collision,Front Collision,Minor Damage,0,3,?,0,51900,5190,10380,36330,BMW,M5,2011
+17,39,IL,250/500,1000,840.95,0,Parked Car,?,Trivial Damage,9,1,?,2,3440,430,430,2580,Suburu,Legacy,2002
+163,36,IN,250/500,1000,1503.21,0,Single Vehicle Collision,Side Collision,Total Loss,1,1,YES,2,51390,5710,11420,34260,Toyota,Corolla,2013
+29,32,OH,100/300,1000,1722.5,0,Single Vehicle Collision,Side Collision,Major Damage,22,1,?,0,76900,7690,7690,61520,Jeep,Wrangler,1995
+232,42,IN,100/300,500,944.03,0,Single Vehicle Collision,Rear Collision,Minor Damage,11,1,YES,2,77000,15400,7700,53900,Toyota,Highlander,2015
+235,39,IL,500/1000,2000,1453.61,4000000,Single Vehicle Collision,Side Collision,Major Damage,10,1,?,0,60320,9280,9280,41760,Chevrolet,Tahoe,2012
+295,46,IN,100/300,500,1672.88,0,Single Vehicle Collision,Rear Collision,Minor Damage,5,1,YES,1,60700,12140,6070,42490,Honda,Civic,1997
+22,21,IN,250/500,1000,1248.05,0,Multi-vehicle Collision,Rear Collision,Total Loss,3,3,YES,1,53280,5920,0,47360,Chevrolet,Malibu,2015
+286,43,IL,100/300,500,1564.43,3000000,Single Vehicle Collision,Rear Collision,Minor Damage,18,1,?,2,34290,3810,3810,26670,Jeep,Grand Cherokee,2013
+257,44,OH,100/300,1000,1280.88,0,Single Vehicle Collision,Rear Collision,Total Loss,21,1,NO,0,46980,0,5220,41760,Accura,TL,2002
+94,26,IN,100/300,500,722.66,0,Multi-vehicle Collision,Front Collision,Major Damage,6,3,YES,1,36700,3670,7340,25690,Nissan,Pathfinder,2010
+124,28,OH,250/500,1000,1235.14,0,Multi-vehicle Collision,Side Collision,Total Loss,20,3,?,0,60200,6020,6020,48160,Volkswagen,Passat,2012
+141,30,IN,500/1000,1000,1347.04,0,Parked Car,?,Minor Damage,6,1,?,1,6480,540,1080,4860,Honda,Civic,1996
+3,38,OH,500/1000,1000,1310.8,0,Single Vehicle Collision,Front Collision,Minor Damage,20,1,YES,0,87200,17440,8720,61040,Honda,Accord,2006
+285,41,IL,100/300,1000,1436.79,0,Single Vehicle Collision,Rear Collision,Major Damage,23,1,YES,2,108480,18080,18080,72320,Volkswagen,Passat,2015
+130,34,OH,250/500,500,1383.49,3000000,Multi-vehicle Collision,Side Collision,Minor Damage,4,3,?,2,67500,7500,7500,52500,Suburu,Impreza,1996
+458,62,IL,500/1000,2000,1356.92,5000000,Single Vehicle Collision,Rear Collision,Major Damage,2,1,?,0,46980,5220,5220,36540,Audi,A5,1998
+456,60,OH,250/500,1000,766.19,0,Parked Car,?,Minor Damage,6,1,?,0,5060,460,920,3680,Mercedes,E400,2007
